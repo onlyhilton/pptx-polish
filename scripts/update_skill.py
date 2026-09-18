@@ -234,14 +234,17 @@ def git_env(exec_override=None, proxy=None):
     return env
 
 
-def run_git(git, args, env, cwd=None):
+def run_git(git, args, env, cwd=None, raw=False):
+    """raw=True 时**不 strip** stdout —— `git status --porcelain` 的第一行首字符是状态位前的空格，
+    一 strip 就会把后面的解析切错位（实测把 `tracked.txt` 读成 `racked.txt`）。"""
     cmd = [git] + list(args)
     try:
         r = subprocess.run(cmd, capture_output=True, text=True, errors="replace",
                            timeout=300, env=env, cwd=cwd)
     except Exception as exc:                                     # noqa: BLE001
         return 1, "", "无法执行 git：%s" % exc
-    return r.returncode, (r.stdout or "").strip(), (r.stderr or "").strip()
+    stdout = r.stdout or ""
+    return r.returncode, (stdout if raw else stdout.strip()), (r.stderr or "").strip()
 
 
 # --------------------------------------------------------------------------- #
@@ -327,8 +330,9 @@ def git_update(git, env, dry_run):
 
     # 有未提交改动就不动 —— 快进合并会带着这些改动走，结果变成"更新了但说不清改了什么"
     code, dirty, err = run_git(
-        git, ["-C", str(SKILL_ROOT), "status", "--porcelain", "--untracked-files=no"], env)
-    if code == 0 and dirty:
+        git, ["-C", str(SKILL_ROOT), "status", "--porcelain", "--untracked-files=no"],
+        env, raw=True)
+    if code == 0 and dirty.strip():
         files = [ln[3:].strip() for ln in dirty.splitlines() if ln.strip()]
         return "blocked", (
             "工作区有 %d 个未提交改动，已停止更新（不静默覆盖你的改动）：\n" % len(files)
@@ -505,6 +509,8 @@ def main(argv=None):
 
     git_exe, exec_override, git_note = find_git()
     want_git = is_git_install() and not args.no_git
+    # zip / 拷贝安装的人不关心本机 git 状态，别在报告里塞无关噪音
+    shown_git_note = git_note if want_git else ""
     out["method"] = "git" if want_git else "zip"
     extra_note, git_changed = None, []
 
@@ -527,7 +533,7 @@ def main(argv=None):
         if args.json:
             emit_json(out)
         else:
-            print_status(lv, rv, rv_note, RELABEL.get(rel, rel), rc, git_note, extra_note)
+            print_status(lv, rv, rv_note, RELABEL.get(rel, rel), rc, shown_git_note, extra_note)
             if rel == "behind":
                 say("  跑 `python scripts/update_skill.py` 更新。")
         return 2 if rel == "behind" else (1 if rel == "error" else 0)
@@ -537,7 +543,7 @@ def main(argv=None):
         if args.json:
             emit_json(out)
         else:
-            print_status(lv, rv, rv_note, RELABEL["current"], rc, git_note, extra_note)
+            print_status(lv, rv, rv_note, RELABEL["current"], rc, shown_git_note, extra_note)
         return 0
 
     if rel == "ahead" and not args.dry_run:
@@ -545,7 +551,7 @@ def main(argv=None):
         if args.json:
             emit_json(out)
         else:
-            print_status(lv, rv, rv_note, RELABEL["ahead"], rc, git_note, extra_note)
+            print_status(lv, rv, rv_note, RELABEL["ahead"], rc, shown_git_note, extra_note)
             say("\n不做任何事（本地比远端新）。")
         return 0
 
@@ -563,7 +569,7 @@ def main(argv=None):
         if args.json:
             emit_json(out)
         else:
-            print_status(lv, rv, rv_note, RELABEL[status], rc, git_note, extra_note)
+            print_status(lv, rv, rv_note, RELABEL[status], rc, shown_git_note, extra_note)
             say("  新增 %d ｜ 修改 %d ｜ 未变 %d ｜ 本地多出 %d（不会删）"
                 % (len(new), len(changed), same, len(extra)))
             for f in (new + changed)[:40]:
@@ -585,7 +591,7 @@ def main(argv=None):
         if args.json:
             emit_json(out)
         else:
-            print_status(lv, rv, rv_note, RELABEL.get(st, st), rc, git_note, extra_note)
+            print_status(lv, rv, rv_note, RELABEL.get(st, st), rc, shown_git_note, extra_note)
             say("  %s" % detail)
             for f in changed[:40]:
                 say("    %s" % f)
@@ -606,7 +612,7 @@ def main(argv=None):
     if args.json:
         say(json.dumps(out, ensure_ascii=False, indent=2))
     else:
-        print_status(lv, rv, rv_note, RELABEL["updated"], rc, git_note, extra_note)
+        print_status(lv, rv, rv_note, RELABEL["updated"], rc, shown_git_note, extra_note)
         say("  新增 %d ｜ 覆盖 %d ｜ 未变 %d ｜ 本地多出 %d（未删除）"
             % (len(new), len(changed), same, len(extra)))
         for f in (new + changed)[:40]:
