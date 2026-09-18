@@ -54,16 +54,87 @@
 > 而常规体检**全过、P0 = 0**（它拿"已经改过的版式"当权威值，这一维根本不查）。
 > 用户第一眼就看出了"斜体被取消了"。
 
-## 3. 安装
+## 3. 安装与更新
+
+WorkBuddy 通过**扫描目录**来发现 skill：把整个 `pptx-polish/` 文件夹放到下面任一位置，它就会自动识别 ——
+不用注册、不用装包、不用改配置。
+
+| 作用域 | 放哪里 | 适用 |
+|---|---|---|
+| **用户级**（本机所有项目都能用） | Windows：`C:\Users\<你>\.workbuddy\skills\pptx-polish\`<br>macOS / Linux：`~/.workbuddy/skills/pptx-polish/` | 个人使用 |
+| **项目级**（跟着项目走、可随仓库共享） | `<项目根>\.workbuddy\skills\pptx-polish\` | 团队共享同一份 |
+
+**仓库根目录就是 skill 根目录** —— clone/解压出来不要再多套一层文件夹，否则 `SKILL.md` 的位置就不对了。
+
+### 3.1 三种拿法，任选一种
+
+**A. git clone（推荐 —— 以后一条命令就能更新）**
 
 ```bash
-git clone <本仓库> ~/.workbuddy/skills/pptx-polish
+git clone https://github.com/onlyhilton/pptx-polish.git ~/.workbuddy/skills/pptx-polish
 ```
 
-WorkBuddy 会自动发现 `~/.workbuddy/skills/` 下的 skill。仓库根目录就是 skill 根目录，
-`SKILL.md` 是给 Agent 读的完整说明书（含每一步的工具链、判定依据与二十条实战陷阱）。
+Windows PowerShell：
 
-### 依赖
+```powershell
+git clone https://github.com/onlyhilton/pptx-polish.git "$env:USERPROFILE\.workbuddy\skills\pptx-polish"
+```
+
+**B. 下载 zip（本机没装 git）**
+
+网页上点 `Code` → `Download ZIP`，解压 → 把 `pptx-polish-main` 改名成 `pptx-polish` → 放进上面的目录。
+或者一条命令（永远取最新 main）：
+
+```powershell
+$dst = "$env:USERPROFILE\.workbuddy\skills\pptx-polish"
+New-Item -ItemType Directory -Force $dst | Out-Null
+iwr https://codeload.github.com/onlyhilton/pptx-polish/zip/refs/heads/main -OutFile "$env:TEMP\pptx-polish.zip"
+Expand-Archive "$env:TEMP\pptx-polish.zip" "$env:TEMP\pptx-polish-x" -Force
+Copy-Item "$env:TEMP\pptx-polish-x\pptx-polish-main\*" $dst -Recurse -Force
+```
+
+**C. 从同事那里拷贝**
+
+直接把文件夹复制进去即可。想知道自己这份是不是最新的、或者上游又有更新 —— 看下一节。
+
+**装完验证**：新开一个对话，输入 `/` 看技能列表里有没有 `pptx-polish`；或直接说"帮我优化这份 PPT"，
+看是否被自动调起。改了 `skills/` 目录之后**重启一次 WorkBuddy** 最稳。
+
+> **装之前建议先读一遍**：本包内含 27 个 Python 脚本（含 PowerPoint COM 自动化、文件读写、
+> 以及联网更新）。第三方 skill 里带可执行脚本本身就有风险，读 `SKILL.md` 和 `scripts/`
+> 再决定要不要用，是划算的几十秒。
+
+### 3.2 更新（拿到上游后续的改动）
+
+**别用"重新下载覆盖"来更新** —— 那会连带抹掉你自己改过的东西，而且覆盖了什么你也看不见。
+包里带了一个更新器，它只做"能确定是快进"的更新：
+
+```bash
+"$PY" "$S/update_skill.py" --check      # 只查：本地版本 vs 远端版本，一个字都不改
+"$PY" "$S/update_skill.py"              # 更新到最新
+"$PY" "$S/update_skill.py" --dry-run    # 先看会写哪些文件
+```
+
+| 你的安装形态 | 它怎么做 | 什么时候**拒绝**更新 |
+|---|---|---|
+| git clone（目录里有 `.git`） | `git fetch` + 快进合并，只前进、不合并、不 rebase | 工作区有未提交改动 / 本地已和远端分叉 |
+| zip、拷贝（没有 `.git`） | 下载最新 main，逐文件比 sha256 后同步 | 不拒绝，但会逐条列出"被覆盖且有变化"的文件，并且**不删除**你本地多出来的文件 |
+
+- **退出码**：`0` 已是最新或更新成功 ｜ `1` 出错 ｜ `2` 发现有新版（`--check` / `--dry-run`）——
+  方便挂到脚本或定时任务里判断。
+- **`--json`** 给机器读。
+- **版本号**在仓库根的 `VERSION` 文件里。更新器第一依据是它，git 安装还会再用 commit 复核一次
+  （"版本号没升但内容改了"是真实存在的）。
+- **需要代理的网络**（Python **不读** Windows 系统代理设置）加 `--proxy`：
+  `"$PY" "$S/update_skill.py" --proxy http://127.0.0.1:7897`
+- 更新完 **重启 WorkBuddy（或新开对话）**，新版本才会被加载。
+- 用 git 安装的话，也可以完全不用这个脚本：`git -C "$SKILL" pull --ff-only`。
+
+**上游方（也就是本仓库维护者）要做的**：改完 `git commit` + `git push` ——
+别人跑一次上面的命令就拿到新版。**没有"自动实时同步"这回事**：skill 是本地文件夹，
+更新永远是"拉"而不是"推"，所以请把上面这条命令当成用之前顺手跑一下的习惯。
+
+### 3.3 依赖
 
 | 依赖 | 说明 |
 |---|---|
@@ -145,9 +216,10 @@ PY="${PY:-python}"        # 需已装 python-pptx / lxml / Pillow；缺模块就
 pptx-polish/
 ├── SKILL.md               # Agent 说明书：五步工具链、判定依据、二十条实战陷阱
 ├── README.md              # 本文件
+├── VERSION                # 版本号（更新器据此判断是否落后）
 ├── LICENSE                # 专有许可（保留所有权利）
 ├── .gitignore
-├── scripts/               # 26 个脚本
+├── scripts/               # 27 个脚本
 │   ├── inject_template.py           # Step 1.1 注入模板母版体系 + 逐页重映射版式
 │   ├── normalize_deck.py            # Step 1.2 标题归位 + 字体继承主题
 │   ├── replace_image.py             # Step 2   换高清图（图片框零改动）
