@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+
+# 打包产物（pack_skill.py 的输出，不进版本库）
+dist/
+*.zip
+
+# 本机临时 / 诊断输出
+*.tmp
+*.bak
+~$*
+.pytest_cache/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp

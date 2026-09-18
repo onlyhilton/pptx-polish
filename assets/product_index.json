@@ -1,0 +1,8919 @@
+{
+ "built": "2026-09-17 09:43:38",
+ "root": "assets/product_images",
+ "root_key": "skill:assets/product_images",
+ "root_rel": "assets/product_images",
+ "mode": "single",
+ "libs": [
+  "webp"
+ ],
+ "count": 310,
+ "errors": 0,
+ "items": {
+  "RG-APF1250|webp|": {
+   "key": "RG-APF1250",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-APF1250.webp",
+   "rel": "e-Lighten/RG-APF1250.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 32320,
+   "mtime": 1725341640,
+   "size_px": [
+    1191,
+    2336
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1663,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9951,
+    0.97
+   ],
+   "fill": 0.6857
+  },
+  "RG-NBF2100S-16GT1SC-P|webp|": {
+   "key": "RG-NBF2100S-16GT1SC-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-NBF2100S-16GT1SC-P.webp",
+   "rel": "e-Lighten/RG-NBF2100S-16GT1SC-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 54668,
+   "mtime": 1725341641,
+   "size_px": [
+    3644,
+    909
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0592,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.965,
+    0.6
+   ],
+   "fill": 0.9567
+  },
+  "RG-NBF2100S-8GT1SC-P|webp|": {
+   "key": "RG-NBF2100S-8GT1SC-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-NBF2100S-8GT1SC-P.webp",
+   "rel": "e-Lighten/RG-NBF2100S-8GT1SC-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 170686,
+   "mtime": 1725341642,
+   "size_px": [
+    4562,
+    1384
+   ],
+   "alpha": true,
+   "alpha_cov": 0.042,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0475,
+    0.0248
+   ],
+   "fill": 0.9635
+  },
+  "RG-NBF2100S-8GT1SC|webp|": {
+   "key": "RG-NBF2100S-8GT1SC",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-NBF2100S-8GT1SC.webp",
+   "rel": "e-Lighten/RG-NBF2100S-8GT1SC.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 163414,
+   "mtime": 1725341642,
+   "size_px": [
+    4562,
+    1384
+   ],
+   "alpha": true,
+   "alpha_cov": 0.042,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.045,
+    0.0331
+   ],
+   "fill": 0.9636
+  },
+  "RG-NBF5200M-8FS16GT4XS|webp|": {
+   "key": "RG-NBF5200M-8FS16GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-NBF5200M-8FS16GT4XS.webp",
+   "rel": "e-Lighten/RG-NBF5200M-8FS16GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 73382,
+   "mtime": 1725341643,
+   "size_px": [
+    4231,
+    1108
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0724,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.065,
+    0.2286
+   ],
+   "fill": 0.9407
+  },
+  "RG-NBF5300M-12MFS12MG4XS|webp|": {
+   "key": "RG-NBF5300M-12MFS12MG4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-NBF5300M-12MFS12MG4XS.webp",
+   "rel": "e-Lighten/RG-NBF5300M-12MFS12MG4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 104236,
+   "mtime": 1781064004,
+   "size_px": [
+    4155,
+    1163
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0673,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.9375
+   ],
+   "fill": 0.9452
+  },
+  "RG-NBF6002M|webp|": {
+   "key": "RG-NBF6002M",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-NBF6002M.webp",
+   "rel": "e-Lighten/RG-NBF6002M.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 134364,
+   "mtime": 1725341644,
+   "size_px": [
+    4512,
+    1189
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1926,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.905,
+    0.981
+   ],
+   "fill": 0.8375
+  },
+  "RG-OM-2.5G-SFP-10KM-SM1490|webp|": {
+   "key": "RG-OM-2.5G-SFP-10KM-SM1490",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-OM-2.5G-SFP-10KM-SM1490.webp",
+   "rel": "e-Lighten/RG-OM-2.5G-SFP-10KM-SM1490.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 66892,
+   "mtime": 1781065789,
+   "size_px": [
+    1769,
+    1122
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5605,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9409
+   ],
+   "fill": 0.4306
+  },
+  "RG-OM-GE-10KM-SFP-SM1490|webp|": {
+   "key": "RG-OM-GE-10KM-SFP-SM1490",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-OM-GE-10KM-SFP-SM1490.webp",
+   "rel": "e-Lighten/RG-OM-GE-10KM-SFP-SM1490.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 96044,
+   "mtime": 1725341644,
+   "size_px": [
+    1712,
+    1250
+   ],
+   "alpha": true,
+   "alpha_cov": 0.577,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7675,
+    0.9075
+   ],
+   "fill": 0.4131
+  },
+  "RG-SPL2016-SC|webp|": {
+   "key": "RG-SPL2016-SC",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-SPL2016-SC.webp",
+   "rel": "e-Lighten/RG-SPL2016-SC.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 49442,
+   "mtime": 1725341640,
+   "size_px": [
+    2845,
+    890
+   ],
+   "alpha": true,
+   "alpha_cov": 0.048,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.515,
+    0.184
+   ],
+   "fill": 0.9724
+  },
+  "RG-SPL2032-SC-P|webp|": {
+   "key": "RG-SPL2032-SC-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-SPL2032-SC-P.webp",
+   "rel": "e-Lighten/RG-SPL2032-SC-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 112824,
+   "mtime": 1781065789,
+   "size_px": [
+    3576,
+    1323
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0657,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9875,
+    0.6959
+   ],
+   "fill": 0.9501
+  },
+  "RG-SPL2032-SC|webp|": {
+   "key": "RG-SPL2032-SC",
+   "lib": "webp",
+   "rank": 0,
+   "series": "e-Lighten",
+   "active": true,
+   "file": "RG-SPL2032-SC.webp",
+   "rel": "e-Lighten/RG-SPL2032-SC.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 68554,
+   "mtime": 1725341639,
+   "size_px": [
+    2845,
+    836
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0294,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5675,
+    0.1356
+   ],
+   "fill": 0.976
+  },
+  "RG-ANT30-D2|webp|": {
+   "key": "RG-ANT30-D2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ANT",
+   "active": true,
+   "file": "RG-ANT30-D2.webp",
+   "rel": "RG-ANT/RG-ANT30-D2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 70338,
+   "mtime": 1787910590,
+   "size_px": [
+    2054,
+    4727
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4037,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9885,
+    1.0
+   ],
+   "fill": 0.56
+  },
+  "RG-ANT90-T2|webp|": {
+   "key": "RG-ANT90-T2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ANT",
+   "active": true,
+   "file": "RG-ANT90-T2.webp",
+   "rel": "RG-ANT/RG-ANT90-T2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 57830,
+   "mtime": 1787910651,
+   "size_px": [
+    4054,
+    4179
+   ],
+   "alpha": true,
+   "alpha_cov": 0.081,
+   "transparent": true,
+   "content_ratio": [
+    0.9974,
+    1.0
+   ],
+   "body_ratio": [
+    0.9948,
+    0.965
+   ],
+   "fill": 0.9124
+  },
+  "RG-ANT90-T6|webp|": {
+   "key": "RG-ANT90-T6",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ANT",
+   "active": true,
+   "file": "RG-ANT90-T6.webp",
+   "rel": "RG-ANT/RG-ANT90-T6.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 13378,
+   "mtime": 1787910695,
+   "size_px": [
+    2094,
+    1396
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0411,
+   "transparent": true,
+   "content_ratio": [
+    0.995,
+    0.9963
+   ],
+   "body_ratio": [
+    0.995,
+    0.9925
+   ],
+   "fill": 0.9532
+  },
+  "RG-AP180|webp|": {
+   "key": "RG-AP180",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP180.webp",
+   "rel": "RG-AP-L/RG-AP180.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 17622,
+   "mtime": 1718959726,
+   "size_px": [
+    1177,
+    1582
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0134,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9966,
+    0.995
+   ],
+   "fill": 0.992
+  },
+  "RG-AP180P-L|webp|": {
+   "key": "RG-AP180P-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP180P-L.webp",
+   "rel": "RG-AP-L/RG-AP180P-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 2188,
+   "mtime": 1718959726,
+   "size_px": [
+    301,
+    591
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0241,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.99
+   ],
+   "body_ratio": [
+    0.9853,
+    0.99
+   ],
+   "fill": 0.9745
+  },
+  "RG-AP680(CD)|webp|": {
+   "key": "RG-AP680(CD)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP680(CD).webp",
+   "rel": "RG-AP-L/RG-AP680(CD).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 54172,
+   "mtime": 1718959727,
+   "size_px": [
+    2684,
+    1618
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1541,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.02,
+    0.0166
+   ],
+   "fill": 0.8593
+  },
+  "RG-AP680-L|webp|": {
+   "key": "RG-AP680-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP680-L.webp",
+   "rel": "RG-AP-L/RG-AP680-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 54412,
+   "mtime": 1718959727,
+   "size_px": [
+    2684,
+    1618
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1541,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.02,
+    0.0166
+   ],
+   "fill": 0.8593
+  },
+  "RG-AP680P-L|webp|": {
+   "key": "RG-AP680P-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP680P-L.webp",
+   "rel": "RG-AP-L/RG-AP680P-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 33928,
+   "mtime": 1718959728,
+   "size_px": [
+    1815,
+    1820
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0261,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9649,
+    0.995
+   ],
+   "fill": 0.9835
+  },
+  "RG-AP720-L|webp|": {
+   "key": "RG-AP720-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP720-L.webp",
+   "rel": "RG-AP-L/RG-AP720-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 22288,
+   "mtime": 1718959728,
+   "size_px": [
+    1281,
+    1276
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0279,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.875,
+    0.9171
+   ],
+   "fill": 0.9833
+  },
+  "RG-AP810-L|webp|": {
+   "key": "RG-AP810-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP810-L.webp",
+   "rel": "RG-AP-L/RG-AP810-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 12226,
+   "mtime": 1718959728,
+   "size_px": [
+    1303,
+    1303
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0212,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.92,
+    0.09
+   ],
+   "fill": 0.9847
+  },
+  "RG-AP820-L(V2)|webp|": {
+   "key": "RG-AP820-L(V2)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP820-L(V2).webp",
+   "rel": "RG-AP-L/RG-AP820-L(V2).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 47784,
+   "mtime": 1718959730,
+   "size_px": [
+    2580,
+    3257
+   ],
+   "alpha": true,
+   "alpha_cov": 0.009,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9937,
+    0.9925
+   ],
+   "fill": 0.997
+  },
+  "RG-AP820-L(V3)|webp|": {
+   "key": "RG-AP820-L(V3)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP820-L(V3).webp",
+   "rel": "RG-AP-L/RG-AP820-L(V3).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 4838,
+   "mtime": 1718959730,
+   "size_px": [
+    604,
+    600
+   ],
+   "alpha": true,
+   "alpha_cov": 0.021,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9887
+  },
+  "RG-AP840-L|webp|": {
+   "key": "RG-AP840-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP840-L.webp",
+   "rel": "RG-AP-L/RG-AP840-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 112948,
+   "mtime": 1718959731,
+   "size_px": [
+    2374,
+    2375
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0214,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.005,
+    0.015
+   ],
+   "fill": 0.9881
+  },
+  "RG-AP880-L|webp|": {
+   "key": "RG-AP880-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-AP880-L.webp",
+   "rel": "RG-AP-L/RG-AP880-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 117324,
+   "mtime": 1718959731,
+   "size_px": [
+    2375,
+    2376
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0224,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0025
+   ],
+   "fill": 0.9878
+  },
+  "RG-WS6008|webp|": {
+   "key": "RG-WS6008",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-WS6008.webp",
+   "rel": "RG-AP-L/RG-WS6008.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 89378,
+   "mtime": 1718959732,
+   "size_px": [
+    3184,
+    881
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0769,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.991
+   ],
+   "body_ratio": [
+    0.6925,
+    0.2072
+   ],
+   "fill": 0.9468
+  },
+  "RG-WS6012-L|webp|": {
+   "key": "RG-WS6012-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-WS6012-L.webp",
+   "rel": "RG-AP-L/RG-WS6012-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 64832,
+   "mtime": 1780995032,
+   "size_px": [
+    4121,
+    740
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0722,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9225,
+    0.5556
+   ],
+   "fill": 0.961
+  },
+  "RG-WS6512-L|webp|": {
+   "key": "RG-WS6512-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-AP-L",
+   "active": true,
+   "file": "RG-WS6512-L.webp",
+   "rel": "RG-AP-L/RG-WS6512-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 143294,
+   "mtime": 1780995406,
+   "size_px": [
+    4536,
+    891
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1616,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9241
+   ],
+   "body_ratio": [
+    0.94,
+    0.3291
+   ],
+   "fill": 0.8624
+  },
+  "RG-CAP62-I|webp|": {
+   "key": "RG-CAP62-I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP62-I.webp",
+   "rel": "RG-CAP/RG-CAP62-I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 19156,
+   "mtime": 1787912613,
+   "size_px": [
+    1714,
+    1715
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0578,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9725,
+    0.995
+   ],
+   "fill": 0.8967
+  },
+  "RG-CAP62-O|webp|": {
+   "key": "RG-CAP62-O",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP62-O.webp",
+   "rel": "RG-CAP/RG-CAP62-O.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 81270,
+   "mtime": 1787912693,
+   "size_px": [
+    3228,
+    2752
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4567,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.8944
+   ],
+   "fill": 0.5341
+  },
+  "RG-CAP62-WP|webp|": {
+   "key": "RG-CAP62-WP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP62-WP.webp",
+   "rel": "RG-CAP/RG-CAP62-WP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 17678,
+   "mtime": 1787912830,
+   "size_px": [
+    1485,
+    2329
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0295,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9922,
+    0.995
+   ],
+   "fill": 0.9493
+  },
+  "RG-CAP72-I|webp|": {
+   "key": "RG-CAP72-I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP72-I.webp",
+   "rel": "RG-CAP/RG-CAP72-I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 20304,
+   "mtime": 1787912944,
+   "size_px": [
+    1886,
+    1886
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0539,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9725,
+    0.995
+   ],
+   "fill": 0.9001
+  },
+  "RG-CAP72-O|webp|": {
+   "key": "RG-CAP72-O",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP72-O.webp",
+   "rel": "RG-CAP/RG-CAP72-O.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 81300,
+   "mtime": 1787913008,
+   "size_px": [
+    3228,
+    2752
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4567,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.8944
+   ],
+   "fill": 0.534
+  },
+  "RG-CAP72-WP|webp|": {
+   "key": "RG-CAP72-WP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP72-WP.webp",
+   "rel": "RG-CAP/RG-CAP72-WP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 17738,
+   "mtime": 1787913141,
+   "size_px": [
+    1448,
+    2271
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0294,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9922,
+    0.995
+   ],
+   "fill": 0.9407
+  },
+  "RG-CAP72PRO-IE|webp|": {
+   "key": "RG-CAP72PRO-IE",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP72PRO-IE.webp",
+   "rel": "RG-CAP/RG-CAP72PRO-IE.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 20838,
+   "mtime": 1787913097,
+   "size_px": [
+    1884,
+    1883
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0538,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.97,
+    0.995
+   ],
+   "fill": 0.9064
+  },
+  "RG-CAP73-I|webp|": {
+   "key": "RG-CAP73-I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP73-I.webp",
+   "rel": "RG-CAP/RG-CAP73-I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 20838,
+   "mtime": 1787913182,
+   "size_px": [
+    1884,
+    1883
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0538,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.97,
+    0.995
+   ],
+   "fill": 0.9064
+  },
+  "RG-CAP73-O|webp|": {
+   "key": "RG-CAP73-O",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP73-O.webp",
+   "rel": "RG-CAP/RG-CAP73-O.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 104310,
+   "mtime": 1787913226,
+   "size_px": [
+    3468,
+    2983
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4171,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9975,
+    0.8895
+   ],
+   "fill": 0.5743
+  },
+  "RG-CAP73MAX|webp|": {
+   "key": "RG-CAP73MAX",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CAP",
+   "active": true,
+   "file": "RG-CAP73Max.webp",
+   "rel": "RG-CAP/RG-CAP73Max.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 25260,
+   "mtime": 1787913368,
+   "size_px": [
+    2144,
+    2143
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0539,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9725,
+    0.995
+   ],
+   "fill": 0.9007
+  },
+  "RG-CF10S-LTE|webp|": {
+   "key": "RG-CF10S-LTE",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-CF10S-LTE.webp",
+   "rel": "RG-CF/RG-CF10S-LTE.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 12786,
+   "mtime": 1781010797,
+   "size_px": [
+    776,
+    595
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5845,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.975,
+    0.2248
+   ],
+   "fill": 0.4284
+  },
+  "RG-CF10S|webp|": {
+   "key": "RG-CF10S",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-CF10S.webp",
+   "rel": "RG-CF/RG-CF10S.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 22288,
+   "mtime": 1781010797,
+   "size_px": [
+    1440,
+    514
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0859,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.6503
+   ],
+   "fill": 0.9239
+  },
+  "RG-CF30XS|webp|": {
+   "key": "RG-CF30XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-CF30XS.webp",
+   "rel": "RG-CF/RG-CF30XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 123004,
+   "mtime": 1781010797,
+   "size_px": [
+    5554,
+    2671
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5879,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.2292
+   ],
+   "fill": 0.4099
+  },
+  "RG-CF50XS|webp|": {
+   "key": "RG-CF50XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-CF50XS.webp",
+   "rel": "RG-CF/RG-CF50XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 84616,
+   "mtime": 1788322199,
+   "size_px": [
+    5149,
+    1354
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1039,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.381
+   ],
+   "fill": 0.8941
+  },
+  "RG-NSEC-HDD-1T|webp|": {
+   "key": "RG-NSEC-HDD-1T",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-NSEC-HDD-1T.webp",
+   "rel": "RG-CF/RG-NSEC-HDD-1T.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 53078,
+   "mtime": 1780995563,
+   "size_px": [
+    1392,
+    932
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2605,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.965,
+    0.8507
+   ],
+   "fill": 0.7529
+  },
+  "RG-WALL 1600-Z3200-S|webp|": {
+   "key": "RG-WALL 1600-Z3200-S",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-WALL 1600-Z3200-S.webp",
+   "rel": "RG-CF/RG-WALL 1600-Z3200-S.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 210386,
+   "mtime": 1718960570,
+   "size_px": [
+    4929,
+    778
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0681,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6075,
+    0.3968
+   ],
+   "fill": 0.9673
+  },
+  "RG-WALL 1600-Z5100-S|webp|": {
+   "key": "RG-WALL 1600-Z5100-S",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CF",
+   "active": true,
+   "file": "RG-WALL 1600-Z5100-S.webp",
+   "rel": "RG-CF/RG-WALL 1600-Z5100-S.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 213026,
+   "mtime": 1718960571,
+   "size_px": [
+    4954,
+    845
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0967,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.425,
+    0.5
+   ],
+   "fill": 0.9367
+  },
+  "RG-CNC105|webp|": {
+   "key": "RG-CNC105",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CNC",
+   "active": true,
+   "file": "RG-CNC105.webp",
+   "rel": "RG-CNC/RG-CNC105.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 115650,
+   "mtime": 1787910808,
+   "size_px": [
+    3503,
+    938
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0523,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.67,
+    0.215
+   ],
+   "fill": 0.9689
+  },
+  "RG-CNC312|webp|": {
+   "key": "RG-CNC312",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CNC",
+   "active": true,
+   "file": "RG-CNC312.webp",
+   "rel": "RG-CNC/RG-CNC312.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 104646,
+   "mtime": 1787910844,
+   "size_px": [
+    5465,
+    1097
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0576,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.4025,
+    0.225
+   ],
+   "fill": 0.9451
+  },
+  "RG-CNC312E|webp|": {
+   "key": "RG-CNC312E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CNC",
+   "active": true,
+   "file": "RG-CNC312E.webp",
+   "rel": "RG-CNC/RG-CNC312E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 146380,
+   "mtime": 1787910900,
+   "size_px": [
+    5478,
+    1250
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1334,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9325,
+    0.3846
+   ],
+   "fill": 0.8914
+  },
+  "RG-CR2010XS|webp|": {
+   "key": "RG-CR2010XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CR",
+   "active": true,
+   "file": "RG-CR2010XS.webp",
+   "rel": "RG-CR/RG-CR2010XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 99968,
+   "mtime": 1787910366,
+   "size_px": [
+    4871,
+    1341
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0664,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0375,
+    0.1727
+   ],
+   "fill": 0.9392
+  },
+  "RG-CR5016XS|webp|": {
+   "key": "RG-CR5016XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CR",
+   "active": true,
+   "file": "RG-CR5016XS.webp",
+   "rel": "RG-CR/RG-CR5016XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 90474,
+   "mtime": 1787910285,
+   "size_px": [
+    4667,
+    1655
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0889,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8625,
+    0.9577
+   ],
+   "fill": 0.9109
+  },
+  "RG-CR510XS|webp|": {
+   "key": "RG-CR510XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CR",
+   "active": true,
+   "file": "RG-CR510XS.webp",
+   "rel": "RG-CR/RG-CR510XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 80474,
+   "mtime": 1787910416,
+   "size_px": [
+    4867,
+    1334
+   ],
+   "alpha": true,
+   "alpha_cov": 0.075,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0375,
+    0.1727
+   ],
+   "fill": 0.9392
+  },
+  "RG-CM85-4XS2CQ|webp|": {
+   "key": "RG-CM85-4XS2CQ",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CM85-4XS2CQ.webp",
+   "rel": "RG-CS/RG-CM85-4XS2CQ.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 91270,
+   "mtime": 1780989227,
+   "size_px": [
+    2602,
+    1643
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3992,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.88,
+    0.8458
+   ],
+   "fill": 0.5981
+  },
+  "RG-CM88-48GT-H|webp|": {
+   "key": "RG-CM88-48GT-H",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CM88-48GT-H.webp",
+   "rel": "RG-CS/RG-CM88-48GT-H.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 237676,
+   "mtime": 1780988720,
+   "size_px": [
+    5584,
+    1697
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2898,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.895,
+    0.4508
+   ],
+   "fill": 0.7364
+  },
+  "RG-CM88-48SFP-H|webp|": {
+   "key": "RG-CM88-48SFP-H",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CM88-48SFP-H.webp",
+   "rel": "RG-CS/RG-CM88-48SFP-H.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 209170,
+   "mtime": 1780988719,
+   "size_px": [
+    5584,
+    1622
+   ],
+   "alpha": true,
+   "alpha_cov": 0.268,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8825,
+    0.5603
+   ],
+   "fill": 0.7629
+  },
+  "RG-CM88-48XS-H|webp|": {
+   "key": "RG-CM88-48XS-H",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CM88-48XS-H.webp",
+   "rel": "RG-CS/RG-CM88-48XS-H.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 402902,
+   "mtime": 1780988718,
+   "size_px": [
+    5584,
+    1697
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2871,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9275,
+    0.5738
+   ],
+   "fill": 0.7413
+  },
+  "RG-CM88-8CQ-H|webp|": {
+   "key": "RG-CM88-8CQ-H",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CM88-8CQ-H.webp",
+   "rel": "RG-CS/RG-CM88-8CQ-H.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 203776,
+   "mtime": 1780988717,
+   "size_px": [
+    5583,
+    1698
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2822,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8825,
+    0.4426
+   ],
+   "fill": 0.7425
+  },
+  "RG-CM88-CM|webp|": {
+   "key": "RG-CM88-CM",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CM88-CM.webp",
+   "rel": "RG-CS/RG-CM88-CM.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 132482,
+   "mtime": 1780988717,
+   "size_px": [
+    4333,
+    1282
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2609,
+   "transparent": true,
+   "content_ratio": [
+    0.995,
+    0.9915
+   ],
+   "body_ratio": [
+    0.805,
+    0.7034
+   ],
+   "fill": 0.7721
+  },
+  "RG-CS61-10GT2MS-P|webp|": {
+   "key": "RG-CS61-10GT2MS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS61-10GT2MS-P.webp",
+   "rel": "RG-CS/RG-CS61-10GT2MS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 580972,
+   "mtime": 1787908108,
+   "size_px": [
+    5413,
+    1488
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0635,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9516
+  },
+  "RG-CS61-24GT4MS-P|webp|": {
+   "key": "RG-CS61-24GT4MS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS61-24GT4MS-P.webp",
+   "rel": "RG-CS/RG-CS61-24GT4MS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 181608,
+   "mtime": 1787909736,
+   "size_px": [
+    6350,
+    1263
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0601,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.205,
+    0.1
+   ],
+   "fill": 0.9584
+  },
+  "RG-CS61-24GT4MS|webp|": {
+   "key": "RG-CS61-24GT4MS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS61-24GT4MS.webp",
+   "rel": "RG-CS/RG-CS61-24GT4MS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 223498,
+   "mtime": 1787908203,
+   "size_px": [
+    6350,
+    1263
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0601,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.395,
+    0.25
+   ],
+   "fill": 0.9584
+  },
+  "RG-CS61-48GT4MS-P|webp|": {
+   "key": "RG-CS61-48GT4MS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS61-48GT4MS-P.webp",
+   "rel": "RG-CS/RG-CS61-48GT4MS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 162570,
+   "mtime": 1787909884,
+   "size_px": [
+    6321,
+    1361
+   ],
+   "alpha": true,
+   "alpha_cov": 0.078,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.06,
+    0.0116
+   ],
+   "fill": 0.9491
+  },
+  "RG-CS62-24GT4XS-P|webp|": {
+   "key": "RG-CS62-24GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS62-24GT4XS-P.webp",
+   "rel": "RG-CS/RG-CS62-24GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 180754,
+   "mtime": 1787911507,
+   "size_px": [
+    6350,
+    1263
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0601,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.1
+   ],
+   "fill": 0.9584
+  },
+  "RG-CS62-24GT4XS|webp|": {
+   "key": "RG-CS62-24GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS62-24GT4XS.webp",
+   "rel": "RG-CS/RG-CS62-24GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 223866,
+   "mtime": 1787909954,
+   "size_px": [
+    6350,
+    1263
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0601,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.395,
+    0.25
+   ],
+   "fill": 0.9584
+  },
+  "RG-CS62-48GT4XS-P|webp|": {
+   "key": "RG-CS62-48GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS62-48GT4XS-P.webp",
+   "rel": "RG-CS/RG-CS62-48GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 162412,
+   "mtime": 1787911635,
+   "size_px": [
+    6321,
+    1361
+   ],
+   "alpha": true,
+   "alpha_cov": 0.078,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.06,
+    0.0116
+   ],
+   "fill": 0.9491
+  },
+  "RG-CS62-48GT4XS|webp|": {
+   "key": "RG-CS62-48GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS62-48GT4XS.webp",
+   "rel": "RG-CS/RG-CS62-48GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 335244,
+   "mtime": 1787911580,
+   "size_px": [
+    6319,
+    1228
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0469,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9125,
+    0.2051
+   ],
+   "fill": 0.9587
+  },
+  "RG-CS63-12XMG4VS-UP|webp|": {
+   "key": "RG-CS63-12XMG4VS-UP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS63-12XMG4VS-UP.webp",
+   "rel": "RG-CS/RG-CS63-12XMG4VS-UP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 116868,
+   "mtime": 1787911742,
+   "size_px": [
+    6136,
+    1260
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0637,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.245,
+    0.2561
+   ],
+   "fill": 0.9504
+  },
+  "RG-CS63-24MG4XS-UPD|webp|": {
+   "key": "RG-CS63-24MG4XS-UPD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS63-24MG4XS-UPD.webp",
+   "rel": "RG-CS/RG-CS63-24MG4XS-UPD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 179288,
+   "mtime": 1787911802,
+   "size_px": [
+    5295,
+    1284
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0724,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9521
+  },
+  "RG-CS65-12XS4VS2QXS-D|webp|": {
+   "key": "RG-CS65-12XS4VS2QXS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS65-12XS4VS2QXS-D.webp",
+   "rel": "RG-CS/RG-CS65-12XS4VS2QXS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 268000,
+   "mtime": 1787912011,
+   "size_px": [
+    5400,
+    1308
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0681,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9521
+  },
+  "RG-CS65-24SFP_8GT4XS-D|webp|": {
+   "key": "RG-CS65-24SFP_8GT4XS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS65-24SFP_8GT4XS-D.webp",
+   "rel": "RG-CS/RG-CS65-24SFP_8GT4XS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 164024,
+   "mtime": 1787912163,
+   "size_px": [
+    6704,
+    1627
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0724,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0103
+   ],
+   "fill": 0.9521
+  },
+  "RG-CS65-24XS8VS2QXS-D|webp|": {
+   "key": "RG-CS65-24XS8VS2QXS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS65-24XS8VS2QXS-D.webp",
+   "rel": "RG-CS/RG-CS65-24XS8VS2QXS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 163606,
+   "mtime": 1787912209,
+   "size_px": [
+    5053,
+    1225
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0725,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0103
+   ],
+   "fill": 0.9521
+  },
+  "RG-CS67-24VS8CQ-D|webp|": {
+   "key": "RG-CS67-24VS8CQ-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS67-24VS8CQ-D.webp",
+   "rel": "RG-CS/RG-CS67-24VS8CQ-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 188158,
+   "mtime": 1787912285,
+   "size_px": [
+    6610,
+    1602
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0621,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0103
+   ],
+   "fill": 0.9522
+  },
+  "RG-CS83-12GT4XS-P|webp|": {
+   "key": "RG-CS83-12GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-12GT4XS-P.webp",
+   "rel": "RG-CS/RG-CS83-12GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 336688,
+   "mtime": 1718959652,
+   "size_px": [
+    4590,
+    756
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0757,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9623
+  },
+  "RG-CS83-24GT4XS-P|webp|": {
+   "key": "RG-CS83-24GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-24GT4XS-P.webp",
+   "rel": "RG-CS/RG-CS83-24GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 425070,
+   "mtime": 1718959653,
+   "size_px": [
+    5049,
+    761
+   ],
+   "alpha": true,
+   "alpha_cov": 0.073,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.1125,
+    0.15
+   ],
+   "fill": 0.9661
+  },
+  "RG-CS83-24GT4XS-PD|webp|": {
+   "key": "RG-CS83-24GT4XS-PD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-24GT4XS-PD.webp",
+   "rel": "RG-CS/RG-CS83-24GT4XS-PD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 204420,
+   "mtime": 1718959654,
+   "size_px": [
+    4872,
+    1132
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1015,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.315,
+    0.2903
+   ],
+   "fill": 0.9235
+  },
+  "RG-CS83-24GT4XS|webp|": {
+   "key": "RG-CS83-24GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-24GT4XS.webp",
+   "rel": "RG-CS/RG-CS83-24GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 363722,
+   "mtime": 1718959653,
+   "size_px": [
+    4907,
+    794
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0725,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9634
+  },
+  "RG-CS83-48GT4XS-P|webp|": {
+   "key": "RG-CS83-48GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-48GT4XS-P.webp",
+   "rel": "RG-CS/RG-CS83-48GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 353266,
+   "mtime": 1718959656,
+   "size_px": [
+    4746,
+    753
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0707,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9651
+  },
+  "RG-CS83-48GT4XS-PD|webp|": {
+   "key": "RG-CS83-48GT4XS-PD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-48GT4XS-PD.webp",
+   "rel": "RG-CS/RG-CS83-48GT4XS-PD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 253354,
+   "mtime": 1718959657,
+   "size_px": [
+    4873,
+    1132
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1016,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9234
+  },
+  "RG-CS83-48GT4XS|webp|": {
+   "key": "RG-CS83-48GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS83-48GT4XS.webp",
+   "rel": "RG-CS/RG-CS83-48GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 353646,
+   "mtime": 1718959655,
+   "size_px": [
+    4760,
+    734
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0701,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.89,
+    0.4194
+   ],
+   "fill": 0.9665
+  },
+  "RG-CS85-24GT8XS-D|webp|": {
+   "key": "RG-CS85-24GT8XS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS85-24GT8XS-D.webp",
+   "rel": "RG-CS/RG-CS85-24GT8XS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 962574,
+   "mtime": 1718959658,
+   "size_px": [
+    5804,
+    1296
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1033,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.427
+   ],
+   "fill": 0.8893
+  },
+  "RG-CS85-24SFP8GT8XS-D|webp|": {
+   "key": "RG-CS85-24SFP8GT8XS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS85-24SFP8GT8XS-D.webp",
+   "rel": "RG-CS/RG-CS85-24SFP8GT8XS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 996390,
+   "mtime": 1718959659,
+   "size_px": [
+    5804,
+    1296
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1033,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.427
+   ],
+   "fill": 0.8824
+  },
+  "RG-CS85-48GT4XS-D|webp|": {
+   "key": "RG-CS85-48GT4XS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS85-48GT4XS-D.webp",
+   "rel": "RG-CS/RG-CS85-48GT4XS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 967954,
+   "mtime": 1718959661,
+   "size_px": [
+    5804,
+    1304
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1134,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.4333
+   ],
+   "fill": 0.8637
+  },
+  "RG-CS85-48GT4XS-HPD|webp|": {
+   "key": "RG-CS85-48GT4XS-HPD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS85-48GT4XS-HPD.webp",
+   "rel": "RG-CS/RG-CS85-48GT4XS-HPD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 1120260,
+   "mtime": 1718959663,
+   "size_px": [
+    5804,
+    1230
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0629,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.92,
+    0.2471
+   ],
+   "fill": 0.9416
+  },
+  "RG-CS85-48SFP4XS-D|webp|": {
+   "key": "RG-CS85-48SFP4XS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS85-48SFP4XS-D.webp",
+   "rel": "RG-CS/RG-CS85-48SFP4XS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 1217910,
+   "mtime": 1718959664,
+   "size_px": [
+    5794,
+    1235
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0606,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9225,
+    0.3294
+   ],
+   "fill": 0.935
+  },
+  "RG-CS86-12XMG4VS-UP|webp|": {
+   "key": "RG-CS86-12XMG4VS-UP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS86-12XMG4VS-UP.webp",
+   "rel": "RG-CS/RG-CS86-12XMG4VS-UP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 294796,
+   "mtime": 1718959665,
+   "size_px": [
+    4651,
+    713
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0734,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.966
+  },
+  "RG-CS86-20XS4VS2QXS-D|webp|": {
+   "key": "RG-CS86-20XS4VS2QXS-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS86-20XS4VS2QXS-D.webp",
+   "rel": "RG-CS/RG-CS86-20XS4VS2QXS-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 491980,
+   "mtime": 1718959666,
+   "size_px": [
+    5510,
+    802
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0983,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6225,
+    0.3793
+   ],
+   "fill": 0.9109
+  },
+  "RG-CS86-24MG4VS-UP|webp|": {
+   "key": "RG-CS86-24MG4VS-UP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS86-24MG4VS-UP.webp",
+   "rel": "RG-CS/RG-CS86-24MG4VS-UP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 195708,
+   "mtime": 1718959666,
+   "size_px": [
+    3770,
+    624
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0642,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9425,
+    0.4545
+   ],
+   "fill": 0.9462
+  },
+  "RG-CS86-24XMG4XS4VS-UPD|webp|": {
+   "key": "RG-CS86-24XMG4XS4VS-UPD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS86-24XMG4XS4VS-UPD.webp",
+   "rel": "RG-CS/RG-CS86-24XMG4XS4VS-UPD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 244786,
+   "mtime": 1718959667,
+   "size_px": [
+    3745,
+    832
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0942,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9425,
+    0.3371
+   ],
+   "fill": 0.9113
+  },
+  "RG-CS86-48MG4VS2QXS-UPD|webp|": {
+   "key": "RG-CS86-48MG4VS2QXS-UPD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS86-48MG4VS2QXS-UPD.webp",
+   "rel": "RG-CS/RG-CS86-48MG4VS2QXS-UPD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 253392,
+   "mtime": 1718959668,
+   "size_px": [
+    3721,
+    831
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0941,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.955,
+    0.4045
+   ],
+   "fill": 0.8995
+  },
+  "RG-CS88-08|webp|": {
+   "key": "RG-CS88-08",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-CS88-08.webp",
+   "rel": "RG-CS/RG-CS88-08.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 97188,
+   "mtime": 1718959668,
+   "size_px": [
+    1071,
+    1079
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0681,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9465
+  },
+  "RG-S2915-10GT2MS-P-L|webp|": {
+   "key": "RG-S2915-10GT2MS-P-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-S2915-10GT2MS-P-L.webp",
+   "rel": "RG-CS/RG-S2915-10GT2MS-P-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 155342,
+   "mtime": 1718959669,
+   "size_px": [
+    4069,
+    792
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0518,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9795
+  },
+  "RG-S2915-24GT4MS-L|webp|": {
+   "key": "RG-S2915-24GT4MS-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-S2915-24GT4MS-L.webp",
+   "rel": "RG-CS/RG-S2915-24GT4MS-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 187198,
+   "mtime": 1718959669,
+   "size_px": [
+    4865,
+    699
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0646,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9743
+  },
+  "RG-S2915-24GT4MS-P-L|webp|": {
+   "key": "RG-S2915-24GT4MS-P-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-S2915-24GT4MS-P-L.webp",
+   "rel": "RG-CS/RG-S2915-24GT4MS-P-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 178748,
+   "mtime": 1718959670,
+   "size_px": [
+    4865,
+    699
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0646,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9744
+  },
+  "RG-S2915-48GT4MS-L|webp|": {
+   "key": "RG-S2915-48GT4MS-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-CS",
+   "active": true,
+   "file": "RG-S2915-48GT4MS-L.webp",
+   "rel": "RG-CS/RG-S2915-48GT4MS-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 155612,
+   "mtime": 1718959671,
+   "size_px": [
+    4865,
+    699
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0646,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9743
+  },
+  "RG-EG105G V2|webp|": {
+   "key": "RG-EG105G V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG105G V2.webp",
+   "rel": "RG-EG/RG-EG105G V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 20264,
+   "mtime": 1718959793,
+   "size_px": [
+    1142,
+    402
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0768,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.4975,
+    0.3546
+   ],
+   "fill": 0.9419
+  },
+  "RG-EG105G-P V2|webp|": {
+   "key": "RG-EG105G-P V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG105G-P V2.webp",
+   "rel": "RG-EG/RG-EG105G-P V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 14514,
+   "mtime": 1718959793,
+   "size_px": [
+    1041,
+    419
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0886,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7375,
+    0.2919
+   ],
+   "fill": 0.9284
+  },
+  "RG-EG105G-P-V3|webp|": {
+   "key": "RG-EG105G-P-V3",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG105G-P-V3.webp",
+   "rel": "RG-EG/RG-EG105G-P-V3.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 110040,
+   "mtime": 1718959794,
+   "size_px": [
+    4260,
+    1392
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0909,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.48,
+    0.4122
+   ],
+   "fill": 0.9285
+  },
+  "RG-EG105G-V3|webp|": {
+   "key": "RG-EG105G-V3",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG105G-V3.webp",
+   "rel": "RG-EG/RG-EG105G-V3.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 114008,
+   "mtime": 1718959795,
+   "size_px": [
+    4888,
+    1715
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0696,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.065,
+    0.15
+   ],
+   "fill": 0.9442
+  },
+  "RG-EG105GW(T)|webp|": {
+   "key": "RG-EG105GW(T)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG105GW(T).webp",
+   "rel": "RG-EG/RG-EG105GW(T).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 62596,
+   "mtime": 1718959796,
+   "size_px": [
+    2236,
+    3162
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2284,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.7858
+  },
+  "RG-EG105GW-X|webp|": {
+   "key": "RG-EG105GW-X",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG105GW-X.webp",
+   "rel": "RG-EG/RG-EG105GW-X.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 119210,
+   "mtime": 1718959797,
+   "size_px": [
+    2599,
+    2068
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4596,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.564
+  },
+  "RG-EG1510XS|webp|": {
+   "key": "RG-EG1510XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG1510XS.webp",
+   "rel": "RG-EG/RG-EG1510XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 133820,
+   "mtime": 1718959802,
+   "size_px": [
+    6499,
+    1173
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0647,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.7361
+   ],
+   "fill": 0.9519
+  },
+  "RG-EG209GS|webp|": {
+   "key": "RG-EG209GS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG209GS.webp",
+   "rel": "RG-EG/RG-EG209GS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 79798,
+   "mtime": 1718959798,
+   "size_px": [
+    4523,
+    1026
+   ],
+   "alpha": true,
+   "alpha_cov": 0.093,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.15,
+    0.011
+   ],
+   "fill": 0.9427
+  },
+  "RG-EG210G-E|webp|": {
+   "key": "RG-EG210G-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG210G-E.webp",
+   "rel": "RG-EG/RG-EG210G-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 107588,
+   "mtime": 1718959798,
+   "size_px": [
+    4534,
+    889
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0666,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.065,
+    0.3205
+   ],
+   "fill": 0.9578
+  },
+  "RG-EG210G-P-V3|webp|": {
+   "key": "RG-EG210G-P-V3",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG210G-P-V3.webp",
+   "rel": "RG-EG/RG-EG210G-P-V3.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 68854,
+   "mtime": 1718959799,
+   "size_px": [
+    2848,
+    861
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0559,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.945,
+    0.5372
+   ],
+   "fill": 0.9639
+  },
+  "RG-EG210G-P|webp|": {
+   "key": "RG-EG210G-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG210G-P.webp",
+   "rel": "RG-EG/RG-EG210G-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 37012,
+   "mtime": 1718959798,
+   "size_px": [
+    962,
+    223
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0683,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.43,
+    0.2581
+   ],
+   "fill": 0.9602
+  },
+  "RG-EG305GH-P-E|webp|": {
+   "key": "RG-EG305GH-P-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG305GH-P-E.webp",
+   "rel": "RG-EG/RG-EG305GH-P-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 69324,
+   "mtime": 1718959799,
+   "size_px": [
+    2471,
+    909
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0565,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.91,
+    0.2177
+   ],
+   "fill": 0.9424
+  },
+  "RG-EG310GH-E|webp|": {
+   "key": "RG-EG310GH-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG310GH-E.webp",
+   "rel": "RG-EG/RG-EG310GH-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 147478,
+   "mtime": 1718959800,
+   "size_px": [
+    5768,
+    1614
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0876,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6925,
+    0.1875
+   ],
+   "fill": 0.9224
+  },
+  "RG-EG310GH-P-E|webp|": {
+   "key": "RG-EG310GH-P-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG310GH-P-E.webp",
+   "rel": "RG-EG/RG-EG310GH-P-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 81370,
+   "mtime": 1718959801,
+   "size_px": [
+    2484,
+    914
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0505,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.945,
+    0.1905
+   ],
+   "fill": 0.9356
+  },
+  "RG-EG406XS-P|webp|": {
+   "key": "RG-EG406XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG406XS-P.webp",
+   "rel": "RG-EG/RG-EG406XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 98224,
+   "mtime": 1781009577,
+   "size_px": [
+    3835,
+    1231
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0679,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.93,
+    0.7734
+   ],
+   "fill": 0.952
+  },
+  "RG-EG406XS|webp|": {
+   "key": "RG-EG406XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG406XS.webp",
+   "rel": "RG-EG/RG-EG406XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 97100,
+   "mtime": 1781009578,
+   "size_px": [
+    3835,
+    1231
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0679,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.93,
+    0.7734
+   ],
+   "fill": 0.952
+  },
+  "RG-EG710XS|webp|": {
+   "key": "RG-EG710XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-EG710XS.webp",
+   "rel": "RG-EG/RG-EG710XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 86048,
+   "mtime": 1781009579,
+   "size_px": [
+    6499,
+    1173
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0647,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.7361
+   ],
+   "fill": 0.9511
+  },
+  "RG-NBR6120-E|webp|": {
+   "key": "RG-NBR6120-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-NBR6120-E.webp",
+   "rel": "RG-EG/RG-NBR6120-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 469352,
+   "mtime": 1718959803,
+   "size_px": [
+    4598,
+    914
+   ],
+   "alpha": true,
+   "alpha_cov": 0.082,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.949
+  },
+  "RG-NBR6205-E|webp|": {
+   "key": "RG-NBR6205-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-NBR6205-E.webp",
+   "rel": "RG-EG/RG-NBR6205-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 270564,
+   "mtime": 1718959804,
+   "size_px": [
+    4241,
+    783
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1423,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9324
+   ],
+   "body_ratio": [
+    1.0,
+    0.5
+   ],
+   "fill": 0.8894
+  },
+  "RG-NBR6210-E|webp|": {
+   "key": "RG-NBR6210-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-NBR6210-E.webp",
+   "rel": "RG-EG/RG-NBR6210-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 266592,
+   "mtime": 1718959805,
+   "size_px": [
+    4241,
+    786
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1475,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9324
+   ],
+   "body_ratio": [
+    1.0,
+    0.5
+   ],
+   "fill": 0.8876
+  },
+  "RG-NBR6215-E|webp|": {
+   "key": "RG-NBR6215-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EG",
+   "active": true,
+   "file": "RG-NBR6215-E.webp",
+   "rel": "RG-EG/RG-NBR6215-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 273984,
+   "mtime": 1718959804,
+   "size_px": [
+    4240,
+    719
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0688,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.99,
+    0.4265
+   ],
+   "fill": 0.9658
+  },
+  "RG-ES05F|webp|": {
+   "key": "RG-ES05F",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES05F.webp",
+   "rel": "RG-ES/ES0/RG-ES05F.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 21376,
+   "mtime": 1718960009,
+   "size_px": [
+    2055,
+    1212
+   ],
+   "alpha": true,
+   "alpha_cov": 0.039,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.6992
+   ],
+   "fill": 0.9548
+  },
+  "RG-ES05G-L|webp|": {
+   "key": "RG-ES05G-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES05G-L.webp",
+   "rel": "RG-ES/ES0/RG-ES05G-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 21376,
+   "mtime": 1718960010,
+   "size_px": [
+    2055,
+    1212
+   ],
+   "alpha": true,
+   "alpha_cov": 0.039,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.6992
+   ],
+   "fill": 0.9548
+  },
+  "RG-ES08F|webp|": {
+   "key": "RG-ES08F",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES08F.webp",
+   "rel": "RG-ES/ES0/RG-ES08F.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 19436,
+   "mtime": 1718960010,
+   "size_px": [
+    2209,
+    912
+   ],
+   "alpha": true,
+   "alpha_cov": 0.038,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9818
+   ],
+   "fill": 0.6239
+  },
+  "RG-ES08G-L|webp|": {
+   "key": "RG-ES08G-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES08G-L.webp",
+   "rel": "RG-ES/ES0/RG-ES08G-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 19436,
+   "mtime": 1718960011,
+   "size_px": [
+    2209,
+    912
+   ],
+   "alpha": true,
+   "alpha_cov": 0.038,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9818
+   ],
+   "fill": 0.6239
+  },
+  "RG-ES103F-P|webp|": {
+   "key": "RG-ES103F-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES103F-P.webp",
+   "rel": "RG-ES/ES1/RG-ES103F-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 35508,
+   "mtime": 1781002741,
+   "size_px": [
+    2302,
+    919
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2474,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9812
+   ],
+   "fill": 0.758
+  },
+  "RG-ES105GD|webp|": {
+   "key": "RG-ES105GD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES105GD.webp",
+   "rel": "RG-ES/ES1/RG-ES105GD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 57900,
+   "mtime": 1718960012,
+   "size_px": [
+    2926,
+    848
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0618,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.96,
+    0.5172
+   ],
+   "fill": 0.9812
+  },
+  "RG-ES106D-P V2|webp|": {
+   "key": "RG-ES106D-P V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES106D-P V2.webp",
+   "rel": "RG-ES/ES1/RG-ES106D-P V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 34276,
+   "mtime": 1718960012,
+   "size_px": [
+    2399,
+    683
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0775,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6925,
+    0.4649
+   ],
+   "fill": 0.9456
+  },
+  "RG-ES106F-P|webp|": {
+   "key": "RG-ES106F-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES106F-P.webp",
+   "rel": "RG-ES/ES1/RG-ES106F-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 29380,
+   "mtime": 1718960013,
+   "size_px": [
+    2007,
+    966
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0472,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.67,
+    0.1244
+   ],
+   "fill": 0.9541
+  },
+  "RG-ES108GD|webp|": {
+   "key": "RG-ES108GD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES108GD.webp",
+   "rel": "RG-ES/ES1/RG-ES108GD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 67684,
+   "mtime": 1718960013,
+   "size_px": [
+    3317,
+    746
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1071,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7675,
+    0.3333
+   ],
+   "fill": 0.9386
+  },
+  "RG-ES110F-P|webp|": {
+   "key": "RG-ES110F-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES110F-P.webp",
+   "rel": "RG-ES/ES1/RG-ES110F-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 47262,
+   "mtime": 1718960015,
+   "size_px": [
+    2510,
+    1211
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0479,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7225,
+    0.1244
+   ],
+   "fill": 0.9369
+  },
+  "RG-ES110FG-P|webp|": {
+   "key": "RG-ES110FG-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES110FG-P.webp",
+   "rel": "RG-ES/ES1/RG-ES110FG-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 47186,
+   "mtime": 1718960015,
+   "size_px": [
+    2510,
+    1211
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0479,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7225,
+    0.1244
+   ],
+   "fill": 0.9402
+  },
+  "RG-ES110GS-P-L|webp|": {
+   "key": "RG-ES110GS-P-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES110GS-P-L.webp",
+   "rel": "RG-ES/ES1/RG-ES110GS-P-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 43302,
+   "mtime": 1718960016,
+   "size_px": [
+    2330,
+    1027
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0536,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.845,
+    0.1648
+   ],
+   "fill": 0.9398
+  },
+  "RG-ES116G-L|webp|": {
+   "key": "RG-ES116G-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES116G-L.webp",
+   "rel": "RG-ES/ES1/RG-ES116G-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 42708,
+   "mtime": 1718960017,
+   "size_px": [
+    3230,
+    815
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0475,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.52,
+    0.4752
+   ],
+   "fill": 0.9702
+  },
+  "RG-ES118FGS-LP|webp|": {
+   "key": "RG-ES118FGS-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES118FGS-LP.webp",
+   "rel": "RG-ES/ES1/RG-ES118FGS-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52044,
+   "mtime": 1718960018,
+   "size_px": [
+    4186,
+    796
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0657,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.41,
+    0.3158
+   ],
+   "fill": 0.9632
+  },
+  "RG-ES118GS-P-L|webp|": {
+   "key": "RG-ES118GS-P-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES118GS-P-L.webp",
+   "rel": "RG-ES/ES1/RG-ES118GS-P-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 62562,
+   "mtime": 1718960018,
+   "size_px": [
+    4697,
+    776
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1148,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.42,
+    0.0455
+   ],
+   "fill": 0.9198
+  },
+  "RG-ES124G-L|webp|": {
+   "key": "RG-ES124G-L",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES124G-L.webp",
+   "rel": "RG-ES/ES1/RG-ES124G-L.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 55056,
+   "mtime": 1718960020,
+   "size_px": [
+    3230,
+    815
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0475,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7425,
+    0.4752
+   ],
+   "fill": 0.9675
+  },
+  "RG-ES126FGS-LP|webp|": {
+   "key": "RG-ES126FGS-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES126FGS-LP.webp",
+   "rel": "RG-ES/ES1/RG-ES126FGS-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 58718,
+   "mtime": 1718960021,
+   "size_px": [
+    4186,
+    796
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0657,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.52,
+    0.3158
+   ],
+   "fill": 0.9637
+  },
+  "RG-ES126FGS-P|webp|": {
+   "key": "RG-ES126FGS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES126FGS-P.webp",
+   "rel": "RG-ES/ES1/RG-ES126FGS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 58520,
+   "mtime": 1718960021,
+   "size_px": [
+    4186,
+    796
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0657,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.52,
+    0.3158
+   ],
+   "fill": 0.9636
+  },
+  "RG-ES205GC-P|webp|": {
+   "key": "RG-ES205GC-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES205GC-P.webp",
+   "rel": "RG-ES/ES2/RG-ES205GC-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 12502,
+   "mtime": 1718960023,
+   "size_px": [
+    762,
+    216
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0564,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8125,
+    0.5664
+   ],
+   "fill": 0.9575
+  },
+  "RG-ES205GC-V2|webp|": {
+   "key": "RG-ES205GC-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES205GC-V2.webp",
+   "rel": "RG-ES/ES2/RG-ES205GC-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 235332,
+   "mtime": 1781001609,
+   "size_px": [
+    2575,
+    947
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0406,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6825,
+    0.2653
+   ],
+   "fill": 0.9778
+  },
+  "RG-ES205GC|webp|": {
+   "key": "RG-ES205GC",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES205GC.webp",
+   "rel": "RG-ES/ES2/RG-ES205GC.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 40280,
+   "mtime": 1718960023,
+   "size_px": [
+    3292,
+    1294
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0619,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9425,
+    0.3376
+   ],
+   "fill": 0.9549
+  },
+  "RG-ES206GS-P|webp|": {
+   "key": "RG-ES206GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES206GS-P.webp",
+   "rel": "RG-ES/ES2/RG-ES206GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 36894,
+   "mtime": 1718960024,
+   "size_px": [
+    2648,
+    963
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0524,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8375,
+    0.2552
+   ],
+   "fill": 0.959
+  },
+  "RG-ES206MG-P|webp|": {
+   "key": "RG-ES206MG-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES206MG-P.webp",
+   "rel": "RG-ES/ES2/RG-ES206MG-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52032,
+   "mtime": 1781002188,
+   "size_px": [
+    3252,
+    959
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0504,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7575,
+    0.3051
+   ],
+   "fill": 0.9706
+  },
+  "RG-ES207GS-AC-OD|webp|": {
+   "key": "RG-ES207GS-AC-OD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES207GS-AC-OD.webp",
+   "rel": "RG-ES/ES2/RG-ES207GS-AC-OD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 22056,
+   "mtime": 1781008491,
+   "size_px": [
+    1948,
+    3237
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0249,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9959,
+    0.9975
+   ],
+   "fill": 0.525
+  },
+  "RG-ES207GS-HP|webp|": {
+   "key": "RG-ES207GS-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES207GS-HP.webp",
+   "rel": "RG-ES/ES2/RG-ES207GS-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 297856,
+   "mtime": 1781001608,
+   "size_px": [
+    3376,
+    1077
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0496,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0275,
+    0.0078
+   ],
+   "fill": 0.97
+  },
+  "RG-ES207GS-LP|webp|": {
+   "key": "RG-ES207GS-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES207GS-LP.webp",
+   "rel": "RG-ES/ES2/RG-ES207GS-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 294666,
+   "mtime": 1781001608,
+   "size_px": [
+    3361,
+    1077
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0492,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.025,
+    0.0078
+   ],
+   "fill": 0.9698
+  },
+  "RG-ES207GS-P|webp|": {
+   "key": "RG-ES207GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES207GS-P.webp",
+   "rel": "RG-ES/ES2/RG-ES207GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 297290,
+   "mtime": 1781001607,
+   "size_px": [
+    3361,
+    1077
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0493,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0275,
+    0.0078
+   ],
+   "fill": 0.9698
+  },
+  "RG-ES207GS-PI-OD|webp|": {
+   "key": "RG-ES207GS-PI-OD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES207GS-PI-OD.webp",
+   "rel": "RG-ES/ES2/RG-ES207GS-PI-OD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 24176,
+   "mtime": 1781008491,
+   "size_px": [
+    2276,
+    2987
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0256,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    1.0,
+    0.98
+   ],
+   "fill": 0.5904
+  },
+  "RG-ES208GC-V2|webp|": {
+   "key": "RG-ES208GC-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES208GC-V2.webp",
+   "rel": "RG-ES/ES2/RG-ES208GC-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 247060,
+   "mtime": 1781001607,
+   "size_px": [
+    3396,
+    1080
+   ],
+   "alpha": true,
+   "alpha_cov": 0.05,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9705
+  },
+  "RG-ES208GC|webp|": {
+   "key": "RG-ES208GC",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES208GC.webp",
+   "rel": "RG-ES/ES2/RG-ES208GC.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 31920,
+   "mtime": 1718960024,
+   "size_px": [
+    3190,
+    1283
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0573,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.05,
+    0.0124
+   ],
+   "fill": 0.9599
+  },
+  "RG-ES209GC-P|webp|": {
+   "key": "RG-ES209GC-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES209GC-P.webp",
+   "rel": "RG-ES/ES2/RG-ES209GC-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11110,
+   "mtime": 1718960024,
+   "size_px": [
+    763,
+    154
+   ],
+   "alpha": true,
+   "alpha_cov": 0.089,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.875,
+    0.5802
+   ],
+   "fill": 0.9482
+  },
+  "RG-ES209MG-P|webp|": {
+   "key": "RG-ES209MG-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES209MG-P.webp",
+   "rel": "RG-ES/ES2/RG-ES209MG-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 59440,
+   "mtime": 1781002187,
+   "size_px": [
+    3163,
+    915
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0653,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0086
+   ],
+   "fill": 0.9564
+  },
+  "RG-ES210GS-P|webp|": {
+   "key": "RG-ES210GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES210GS-P.webp",
+   "rel": "RG-ES/ES2/RG-ES210GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 49302,
+   "mtime": 1718960025,
+   "size_px": [
+    3708,
+    1221
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0691,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.895,
+    0.0758
+   ],
+   "fill": 0.9404
+  },
+  "RG-ES211GS-LP|webp|": {
+   "key": "RG-ES211GS-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES211GS-LP.webp",
+   "rel": "RG-ES/ES2/RG-ES211GS-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 217608,
+   "mtime": 1781001606,
+   "size_px": [
+    4092,
+    1122
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0619,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9607
+  },
+  "RG-ES211GS-P|webp|": {
+   "key": "RG-ES211GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES211GS-P.webp",
+   "rel": "RG-ES/ES2/RG-ES211GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 217656,
+   "mtime": 1781001606,
+   "size_px": [
+    4092,
+    1122
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0619,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9607
+  },
+  "RG-ES216GC-V2|webp|": {
+   "key": "RG-ES216GC-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES216GC-V2.webp",
+   "rel": "RG-ES/ES2/RG-ES216GC-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 44862,
+   "mtime": 1718960026,
+   "size_px": [
+    4608,
+    713
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0607,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7975,
+    0.4194
+   ],
+   "fill": 0.9733
+  },
+  "RG-ES216GC2MS|webp|": {
+   "key": "RG-ES216GC2MS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES216GC2MS.webp",
+   "rel": "RG-ES/ES2/RG-ES216GC2MS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 57564,
+   "mtime": 1781001605,
+   "size_px": [
+    4328,
+    753
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0603,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.2975,
+    0.2714
+   ],
+   "fill": 0.9562
+  },
+  "RG-ES220GS-LP|webp|": {
+   "key": "RG-ES220GS-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES220GS-LP.webp",
+   "rel": "RG-ES/ES2/RG-ES220GS-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 55482,
+   "mtime": 1781002187,
+   "size_px": [
+    3309,
+    906
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0625,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6925,
+    0.0727
+   ],
+   "fill": 0.9505
+  },
+  "RG-ES220GS-P-V2|webp|": {
+   "key": "RG-ES220GS-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES220GS-P-V2.webp",
+   "rel": "RG-ES/ES2/RG-ES220GS-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 92558,
+   "mtime": 1781001605,
+   "size_px": [
+    3590,
+    965
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0669,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5025,
+    0.2963
+   ],
+   "fill": 0.9509
+  },
+  "RG-ES220GS-P|webp|": {
+   "key": "RG-ES220GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES220GS-P.webp",
+   "rel": "RG-ES/ES2/RG-ES220GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 70970,
+   "mtime": 1718960026,
+   "size_px": [
+    3320,
+    947
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0989,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7025,
+    0.3246
+   ],
+   "fill": 0.9204
+  },
+  "RG-ES224GC-V2|webp|": {
+   "key": "RG-ES224GC-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES224GC-V2.webp",
+   "rel": "RG-ES/ES2/RG-ES224GC-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52994,
+   "mtime": 1718960027,
+   "size_px": [
+    4608,
+    713
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0607,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.805,
+    0.4194
+   ],
+   "fill": 0.9721
+  },
+  "RG-ES224GS2MS|webp|": {
+   "key": "RG-ES224GS2MS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES224GS2MS.webp",
+   "rel": "RG-ES/ES2/RG-ES224GS2MS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 67208,
+   "mtime": 1781001605,
+   "size_px": [
+    4459,
+    780
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0457,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.4025,
+    0.3
+   ],
+   "fill": 0.9722
+  },
+  "RG-ES228GS-LP|webp|": {
+   "key": "RG-ES228GS-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES228GS-LP.webp",
+   "rel": "RG-ES/ES2/RG-ES228GS-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 71152,
+   "mtime": 1781002187,
+   "size_px": [
+    4535,
+    868
+   ],
+   "alpha": true,
+   "alpha_cov": 0.042,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.4675,
+    0.3377
+   ],
+   "fill": 0.9605
+  },
+  "RG-ES228GS-P-V2|webp|": {
+   "key": "RG-ES228GS-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES228GS-P-V2.webp",
+   "rel": "RG-ES/ES2/RG-ES228GS-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 87048,
+   "mtime": 1781001604,
+   "size_px": [
+    4459,
+    844
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0689,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.4,
+    0.2632
+   ],
+   "fill": 0.9611
+  },
+  "RG-ES228GS-P|webp|": {
+   "key": "RG-ES228GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": true,
+   "file": "RG-ES228GS-P.webp",
+   "rel": "RG-ES/ES2/RG-ES228GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 69802,
+   "mtime": 1718960027,
+   "size_px": [
+    4078,
+    781
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0422,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5775,
+    0.3377
+   ],
+   "fill": 0.96
+  },
+  "RG-ES05|webp|": {
+   "key": "RG-ES05",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES05.webp",
+   "rel": "RG-ES/已停产/RG-ES05.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 40200,
+   "mtime": 1718960009,
+   "size_px": [
+    2000,
+    786
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0924,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9258
+  },
+  "RG-ES05G|webp|": {
+   "key": "RG-ES05G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES05G.webp",
+   "rel": "RG-ES/已停产/RG-ES05G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 40200,
+   "mtime": 1718960010,
+   "size_px": [
+    2000,
+    786
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0924,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9258
+  },
+  "RG-ES08|webp|": {
+   "key": "RG-ES08",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES08.webp",
+   "rel": "RG-ES/已停产/RG-ES08.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 49774,
+   "mtime": 1718960010,
+   "size_px": [
+    2000,
+    739
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0826,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0068
+   ],
+   "fill": 0.9402
+  },
+  "RG-ES08G|webp|": {
+   "key": "RG-ES08G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES08G.webp",
+   "rel": "RG-ES/已停产/RG-ES08G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 49774,
+   "mtime": 1718960011,
+   "size_px": [
+    2000,
+    739
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0826,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0068
+   ],
+   "fill": 0.9402
+  },
+  "RG-ES105D|webp|": {
+   "key": "RG-ES105D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES105D.webp",
+   "rel": "RG-ES/已停产/RG-ES105D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 59836,
+   "mtime": 1718960012,
+   "size_px": [
+    2929,
+    859
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0738,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.94,
+    0.5128
+   ],
+   "fill": 0.9742
+  },
+  "RG-ES108D|webp|": {
+   "key": "RG-ES108D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES108D.webp",
+   "rel": "RG-ES/已停产/RG-ES108D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11632,
+   "mtime": 1718960013,
+   "size_px": [
+    954,
+    221
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1088,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.685,
+    0.3333
+   ],
+   "fill": 0.9313
+  },
+  "RG-ES110D-P|webp|": {
+   "key": "RG-ES110D-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES110D-P.webp",
+   "rel": "RG-ES/已停产/RG-ES110D-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 187434,
+   "mtime": 1718960014,
+   "size_px": [
+    3332,
+    959
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1067,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9913
+   ],
+   "body_ratio": [
+    0.7475,
+    0.1826
+   ],
+   "fill": 0.9372
+  },
+  "RG-ES110GDS-P|webp|": {
+   "key": "RG-ES110GDS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES110GDS-P.webp",
+   "rel": "RG-ES/已停产/RG-ES110GDS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 73232,
+   "mtime": 1718960016,
+   "size_px": [
+    2667,
+    990
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0946,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0325,
+    0.027
+   ],
+   "fill": 0.9239
+  },
+  "RG-ES116G|webp|": {
+   "key": "RG-ES116G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES116G.webp",
+   "rel": "RG-ES/已停产/RG-ES116G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 71392,
+   "mtime": 1718960017,
+   "size_px": [
+    3056,
+    879
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0709,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0425,
+    0.0174
+   ],
+   "fill": 0.9811
+  },
+  "RG-ES118GS-P|webp|": {
+   "key": "RG-ES118GS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES118GS-P.webp",
+   "rel": "RG-ES/已停产/RG-ES118GS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 73014,
+   "mtime": 1718960018,
+   "size_px": [
+    2961,
+    729
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1219,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.2725,
+    0.2143
+   ],
+   "fill": 0.9039
+  },
+  "RG-ES118S-LP|webp|": {
+   "key": "RG-ES118S-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES118S-LP.webp",
+   "rel": "RG-ES/已停产/RG-ES118S-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 82630,
+   "mtime": 1718960019,
+   "size_px": [
+    3179,
+    842
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1215,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8925,
+    0.1887
+   ],
+   "fill": 0.8908
+  },
+  "RG-ES124GD|webp|": {
+   "key": "RG-ES124GD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES124GD.webp",
+   "rel": "RG-ES/已停产/RG-ES124GD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 344012,
+   "mtime": 1718960020,
+   "size_px": [
+    4034,
+    1132
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0936,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9325,
+    0.3661
+   ],
+   "fill": 0.9533
+  },
+  "RG-ES126S-LP V2|webp|": {
+   "key": "RG-ES126S-LP V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES126S-LP V2.webp",
+   "rel": "RG-ES/已停产/RG-ES126S-LP V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52300,
+   "mtime": 1718960022,
+   "size_px": [
+    3146,
+    697
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0875,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8025,
+    0.2584
+   ],
+   "fill": 0.9273
+  },
+  "RG-ES126S-P V2|webp|": {
+   "key": "RG-ES126S-P V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES126S-P V2.webp",
+   "rel": "RG-ES/已停产/RG-ES126S-P V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52448,
+   "mtime": 1718960022,
+   "size_px": [
+    3146,
+    697
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0875,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8025,
+    0.2584
+   ],
+   "fill": 0.9272
+  },
+  "RG-ES206GC-P|webp|": {
+   "key": "RG-ES206GC-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES206GC-P.webp",
+   "rel": "RG-ES/已停产/RG-ES206GC-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 26838,
+   "mtime": 1718960023,
+   "size_px": [
+    2000,
+    757
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0795,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6275,
+    0.0596
+   ],
+   "fill": 0.9377
+  },
+  "RG-ES210GC-LP|webp|": {
+   "key": "RG-ES210GC-LP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-ES",
+   "active": false,
+   "file": "RG-ES210GC-LP.webp",
+   "rel": "RG-ES/已停产/RG-ES210GC-LP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 24892,
+   "mtime": 1718960025,
+   "size_px": [
+    2000,
+    790
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0857,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7475,
+    0.019
+   ],
+   "fill": 0.9284
+  },
+  "RG-ANT13-360|webp|": {
+   "key": "RG-ANT13-360",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-ANT13-360.webp",
+   "rel": "RG-EST/RG-ANT13-360.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 55464,
+   "mtime": 1718960094,
+   "size_px": [
+    944,
+    3993
+   ],
+   "alpha": true,
+   "alpha_cov": 0.666,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9789,
+    0.9275
+   ],
+   "fill": 0.3639
+  },
+  "RG-ANT16S-120|webp|": {
+   "key": "RG-ANT16S-120",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-ANT16S-120.webp",
+   "rel": "RG-EST/RG-ANT16S-120.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11624,
+   "mtime": 1718960094,
+   "size_px": [
+    618,
+    2028
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0595,
+   "transparent": true,
+   "content_ratio": [
+    0.9754,
+    1.0
+   ],
+   "body_ratio": [
+    1.0,
+    0.995
+   ],
+   "fill": 0.9076
+  },
+  "RG-ANT20S-90|webp|": {
+   "key": "RG-ANT20S-90",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-ANT20S-90.webp",
+   "rel": "RG-EST/RG-ANT20S-90.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 13120,
+   "mtime": 1718960095,
+   "size_px": [
+    385,
+    2120
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0704,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7671,
+    0.995
+   ],
+   "fill": 0.8997
+  },
+  "RG-AIRMETRO460F|webp|": {
+   "key": "RG-AIRMETRO460F",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-AirMetro460F.webp",
+   "rel": "RG-EST/RG-AirMetro460F.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 387530,
+   "mtime": 1718960092,
+   "size_px": [
+    3065,
+    3083
+   ],
+   "alpha": true,
+   "alpha_cov": 0.22,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9625
+   ],
+   "fill": 0.7575
+  },
+  "RG-AIRMETRO460G|webp|": {
+   "key": "RG-AIRMETRO460G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-AirMetro460G.webp",
+   "rel": "RG-EST/RG-AirMetro460G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 219434,
+   "mtime": 1718960094,
+   "size_px": [
+    2760,
+    2775
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2201,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9095,
+    0.925
+   ],
+   "fill": 0.7624
+  },
+  "RG-AIRMETRO550G-B|webp|": {
+   "key": "RG-AIRMETRO550G-B",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-AirMetro550G-B.webp",
+   "rel": "RG-EST/RG-AirMetro550G-B.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 12164,
+   "mtime": 1718960094,
+   "size_px": [
+    953,
+    2031
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0455,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9415,
+    0.9675
+   ],
+   "fill": 0.9229
+  },
+  "RG-EST100-E|webp|": {
+   "key": "RG-EST100-E",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-EST100-E.webp",
+   "rel": "RG-EST/RG-EST100-E.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 8322,
+   "mtime": 1718960095,
+   "size_px": [
+    467,
+    1125
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0269,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.006,
+    0.0025
+   ],
+   "fill": 0.9848
+  },
+  "RG-EST310 V2|webp|": {
+   "key": "RG-EST310 V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-EST310 V2.webp",
+   "rel": "RG-EST/RG-EST310 V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 4000,
+   "mtime": 1718960095,
+   "size_px": [
+    499,
+    948
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0308,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9834
+  },
+  "RG-EST330F-P|webp|": {
+   "key": "RG-EST330F-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-EST330F-P.webp",
+   "rel": "RG-EST/RG-EST330F-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 8886,
+   "mtime": 1781009953,
+   "size_px": [
+    794,
+    1542
+   ],
+   "alpha": true,
+   "alpha_cov": 0.037,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9854,
+    0.9925
+   ],
+   "fill": 0.8417
+  },
+  "RG-EST350 V2|webp|": {
+   "key": "RG-EST350 V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-EST350 V2.webp",
+   "rel": "RG-EST/RG-EST350 V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 18340,
+   "mtime": 1718960095,
+   "size_px": [
+    1376,
+    2747
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1351,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.975,
+    0.7975
+   ],
+   "fill": 0.7136
+  },
+  "RG-EST350G|webp|": {
+   "key": "RG-EST350G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-EST350G.webp",
+   "rel": "RG-EST/RG-EST350G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11782,
+   "mtime": 1781009885,
+   "size_px": [
+    1024,
+    1857
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0343,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9864,
+    0.9925
+   ],
+   "fill": 0.9121
+  },
+  "RG-EST450G|webp|": {
+   "key": "RG-EST450G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EST",
+   "active": true,
+   "file": "RG-EST450G.webp",
+   "rel": "RG-EST/RG-EST450G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 13420,
+   "mtime": 1781009885,
+   "size_px": [
+    854,
+    2438
+   ],
+   "alpha": true,
+   "alpha_cov": 0.036,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9857,
+    0.99
+   ],
+   "fill": 0.9195
+  },
+  "RG-EW1200|webp|": {
+   "key": "RG-EW1200",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW1200.webp",
+   "rel": "RG-EW/RG-EW1200.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 69822,
+   "mtime": 1718960153,
+   "size_px": [
+    2821,
+    2757
+   ],
+   "alpha": true,
+   "alpha_cov": 0.6052,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9898
+   ],
+   "fill": 0.4097
+  },
+  "RG-EW1200G PRO|webp|": {
+   "key": "RG-EW1200G PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW1200G PRO.webp",
+   "rel": "RG-EW/RG-EW1200G PRO.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 97402,
+   "mtime": 1718960154,
+   "size_px": [
+    2749,
+    2310
+   ],
+   "alpha": true,
+   "alpha_cov": 0.577,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0275,
+    0.0238
+   ],
+   "fill": 0.4476
+  },
+  "RG-EW1200R|webp|": {
+   "key": "RG-EW1200R",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW1200R.webp",
+   "rel": "RG-EW/RG-EW1200R.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 77550,
+   "mtime": 1718960156,
+   "size_px": [
+    2879,
+    3621
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3764,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9465,
+    0.685
+   ],
+   "fill": 0.6363
+  },
+  "RG-EW1300G|webp|": {
+   "key": "RG-EW1300G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW1300G.webp",
+   "rel": "RG-EW/RG-EW1300G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 126602,
+   "mtime": 1718960157,
+   "size_px": [
+    4340,
+    3212
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5478,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0034
+   ],
+   "fill": 0.4774
+  },
+  "RG-EW1800GX PRO|webp|": {
+   "key": "RG-EW1800GX PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW1800GX PRO.webp",
+   "rel": "RG-EW/RG-EW1800GX PRO.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 53548,
+   "mtime": 1718960158,
+   "size_px": [
+    1850,
+    1964
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4926,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9975
+   ],
+   "body_ratio": [
+    0.9735,
+    0.91
+   ],
+   "fill": 0.4023
+  },
+  "RG-EW300 PRO|webp|": {
+   "key": "RG-EW300 PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW300 PRO.webp",
+   "rel": "RG-EW/RG-EW300 PRO.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 72172,
+   "mtime": 1718960149,
+   "size_px": [
+    3124,
+    3096
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5186,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.005,
+    0.0025
+   ],
+   "fill": 0.4971
+  },
+  "RG-EW3000GX PRO|webp|": {
+   "key": "RG-EW3000GX PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW3000GX PRO.webp",
+   "rel": "RG-EW/RG-EW3000GX PRO.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 82892,
+   "mtime": 1718960159,
+   "size_px": [
+    2758,
+    1990
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5804,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.06,
+    0.2803
+   ],
+   "fill": 0.4445
+  },
+  "RG-EW3000GX|webp|": {
+   "key": "RG-EW3000GX",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW3000GX.webp",
+   "rel": "RG-EW/RG-EW3000GX.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 80990,
+   "mtime": 1781010329,
+   "size_px": [
+    3006,
+    2384
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4954,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9925,
+    0.9874
+   ],
+   "fill": 0.5135
+  },
+  "RG-EW300N|webp|": {
+   "key": "RG-EW300N",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW300N.webp",
+   "rel": "RG-EW/RG-EW300N.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 146294,
+   "mtime": 1718960150,
+   "size_px": [
+    4538,
+    3803
+   ],
+   "alpha": true,
+   "alpha_cov": 0.6273,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.3894
+  },
+  "RG-EW300R|webp|": {
+   "key": "RG-EW300R",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW300R.webp",
+   "rel": "RG-EW/RG-EW300R.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 36132,
+   "mtime": 1718960151,
+   "size_px": [
+    1074,
+    1800
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4003,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9916,
+    0.95
+   ],
+   "fill": 0.6156
+  },
+  "RG-EW300T|webp|": {
+   "key": "RG-EW300T",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW300T.webp",
+   "rel": "RG-EW/RG-EW300T.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 124962,
+   "mtime": 1718960152,
+   "size_px": [
+    3686,
+    2856
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5515,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.4709
+  },
+  "RG-EW3200GX PRO|webp|": {
+   "key": "RG-EW3200GX PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW3200GX PRO.webp",
+   "rel": "RG-EW/RG-EW3200GX PRO.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 18308,
+   "mtime": 1718960159,
+   "size_px": [
+    716,
+    583
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4216,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.3425,
+    0.0491
+   ],
+   "fill": 0.6058
+  },
+  "RG-EW6000GX|webp|": {
+   "key": "RG-EW6000GX",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW6000GX.webp",
+   "rel": "RG-EW/RG-EW6000GX.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 950740,
+   "mtime": 1781010250,
+   "size_px": [
+    3234,
+    2544
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4634,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.1275,
+    0.4159
+   ],
+   "fill": 0.5599
+  },
+  "RG-EW7200BE-PRO|webp|": {
+   "key": "RG-EW7200BE-PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-EW7200BE-Pro.webp",
+   "rel": "RG-EW/RG-EW7200BE-Pro.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 240504,
+   "mtime": 1725341878,
+   "size_px": [
+    2886,
+    2990
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4432,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.5763
+  },
+  "RG-M18|webp|": {
+   "key": "RG-M18",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-M18.webp",
+   "rel": "RG-EW/RG-M18.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 24770,
+   "mtime": 1781010169,
+   "size_px": [
+    1041,
+    2229
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0759,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9893,
+    0.995
+   ],
+   "fill": 0.9358
+  },
+  "RG-M32|webp|": {
+   "key": "RG-M32",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-EW",
+   "active": true,
+   "file": "RG-M32.webp",
+   "rel": "RG-EW/RG-M32.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 327212,
+   "mtime": 1781010169,
+   "size_px": [
+    2046,
+    3899
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0979,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9667,
+    0.18
+   ],
+   "fill": 0.9129
+  },
+  "RG-M6000-16GT8SFP2XS|webp|": {
+   "key": "RG-M6000-16GT8SFP2XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M6000-16GT8SFP2XS.webp",
+   "rel": "RG-NBS/RG-M6000-16GT8SFP2XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 148292,
+   "mtime": 1734664863,
+   "size_px": [
+    3357,
+    1234
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4183,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.966
+   ],
+   "fill": 0.5567
+  },
+  "RG-M6000-16SFP8GT2XS|webp|": {
+   "key": "RG-M6000-16SFP8GT2XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M6000-16SFP8GT2XS.webp",
+   "rel": "RG-NBS/RG-M6000-16SFP8GT2XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 155506,
+   "mtime": 1734664863,
+   "size_px": [
+    3357,
+    1234
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4135,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.9456
+   ],
+   "fill": 0.5509
+  },
+  "RG-M6000-24GT2XS|webp|": {
+   "key": "RG-M6000-24GT2XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M6000-24GT2XS.webp",
+   "rel": "RG-NBS/RG-M6000-24GT2XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 84180,
+   "mtime": 1780996449,
+   "size_px": [
+    3747,
+    684
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0662,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9726
+   ],
+   "fill": 0.9053
+  },
+  "RG-M6000-24SFP2XS|webp|": {
+   "key": "RG-M6000-24SFP2XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M6000-24SFP2XS.webp",
+   "rel": "RG-NBS/RG-M6000-24SFP2XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 154124,
+   "mtime": 1734664864,
+   "size_px": [
+    3357,
+    1234
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4127,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.985,
+    0.966
+   ],
+   "fill": 0.5807
+  },
+  "RG-M7000-16XS-EA|webp|": {
+   "key": "RG-M7000-16XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-16XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-16XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 254122,
+   "mtime": 1780996279,
+   "size_px": [
+    6522,
+    2146
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4822,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9773
+   ],
+   "fill": 0.5074
+  },
+  "RG-M7000-24GT24SFP2XS-EA|webp|": {
+   "key": "RG-M7000-24GT24SFP2XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-24GT24SFP2XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-24GT24SFP2XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 385354,
+   "mtime": 1780996276,
+   "size_px": [
+    6522,
+    2146
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4822,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9773
+   ],
+   "fill": 0.4952
+  },
+  "RG-M7000-24GT2XS-EA|webp|": {
+   "key": "RG-M7000-24GT2XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-24GT2XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-24GT2XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 283588,
+   "mtime": 1780996278,
+   "size_px": [
+    6548,
+    2107
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4837,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9767
+   ],
+   "fill": 0.4377
+  },
+  "RG-M7000-24SFP2XS-EA|webp|": {
+   "key": "RG-M7000-24SFP2XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-24SFP2XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-24SFP2XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 288444,
+   "mtime": 1780996275,
+   "size_px": [
+    6522,
+    2146
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4792,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9725,
+    0.9773
+   ],
+   "fill": 0.5045
+  },
+  "RG-M7000-48GT2XS-EA|webp|": {
+   "key": "RG-M7000-48GT2XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-48GT2XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-48GT2XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 398436,
+   "mtime": 1780996273,
+   "size_px": [
+    6548,
+    2107
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4838,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9767
+   ],
+   "fill": 0.5018
+  },
+  "RG-M7000-48SFP2XS-EA|webp|": {
+   "key": "RG-M7000-48SFP2XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-48SFP2XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-48SFP2XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 369246,
+   "mtime": 1780996272,
+   "size_px": [
+    6522,
+    2146
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4797,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9773
+   ],
+   "fill": 0.4965
+  },
+  "RG-M7000-8XS-EA|webp|": {
+   "key": "RG-M7000-8XS-EA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7000-8XS-EA.webp",
+   "rel": "RG-NBS/RG-M7000-8XS-EA.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 226146,
+   "mtime": 1780996281,
+   "size_px": [
+    6522,
+    2146
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4838,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.9773
+   ],
+   "fill": 0.5046
+  },
+  "RG-M7006-CM|webp|": {
+   "key": "RG-M7006-CM",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-M7006-CM.webp",
+   "rel": "RG-NBS/RG-M7006-CM.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 16086,
+   "mtime": 1780995836,
+   "size_px": [
+    3078,
+    297
+   ],
+   "alpha": true,
+   "alpha_cov": 0.077,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.965,
+    0.8974
+   ],
+   "fill": 0.9844
+  },
+  "RG-NBS3100-24GT4SFP-P-V2|webp|": {
+   "key": "RG-NBS3100-24GT4SFP-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-24GT4SFP-P-V2.webp",
+   "rel": "RG-NBS/RG-NBS3100-24GT4SFP-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 16846,
+   "mtime": 1718960212,
+   "size_px": [
+    1158,
+    257
+   ],
+   "alpha": true,
+   "alpha_cov": 0.122,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0375,
+    0.0225
+   ],
+   "fill": 0.9086
+  },
+  "RG-NBS3100-24GT4SFP-P|webp|": {
+   "key": "RG-NBS3100-24GT4SFP-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-24GT4SFP-P.webp",
+   "rel": "RG-NBS/RG-NBS3100-24GT4SFP-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 133482,
+   "mtime": 1718960212,
+   "size_px": [
+    4283,
+    691
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0812,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7425,
+    0.4615
+   ],
+   "fill": 0.9516
+  },
+  "RG-NBS3100-24GT4SFP-V2|webp|": {
+   "key": "RG-NBS3100-24GT4SFP-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-24GT4SFP-V2.webp",
+   "rel": "RG-NBS/RG-NBS3100-24GT4SFP-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11896,
+   "mtime": 1718960212,
+   "size_px": [
+    1080,
+    195
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1186,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.275,
+    0.8889
+   ],
+   "fill": 0.9157
+  },
+  "RG-NBS3100-24GT4SFP|webp|": {
+   "key": "RG-NBS3100-24GT4SFP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-24GT4SFP.webp",
+   "rel": "RG-NBS/RG-NBS3100-24GT4SFP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 110504,
+   "mtime": 1718960211,
+   "size_px": [
+    4232,
+    563
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0686,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.6792
+   ],
+   "fill": 0.9651
+  },
+  "RG-NBS3100-48GT4SFP-P-V2|webp|": {
+   "key": "RG-NBS3100-48GT4SFP-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-48GT4SFP-P-V2.webp",
+   "rel": "RG-NBS/RG-NBS3100-48GT4SFP-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 82034,
+   "mtime": 1780999764,
+   "size_px": [
+    3666,
+    750
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1333,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8075,
+    0.9024
+   ],
+   "fill": 0.8978
+  },
+  "RG-NBS3100-48GT4SFP-P|webp|": {
+   "key": "RG-NBS3100-48GT4SFP-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-48GT4SFP-P.webp",
+   "rel": "RG-NBS/RG-NBS3100-48GT4SFP-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 119556,
+   "mtime": 1718960213,
+   "size_px": [
+    6286,
+    1460
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1623,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.805,
+    0.2043
+   ],
+   "fill": 0.8477
+  },
+  "RG-NBS3100-8GT2SFP-P-V2|webp|": {
+   "key": "RG-NBS3100-8GT2SFP-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-8GT2SFP-P-V2.webp",
+   "rel": "RG-NBS/RG-NBS3100-8GT2SFP-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52836,
+   "mtime": 1718960211,
+   "size_px": [
+    4698,
+    764
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2847,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.12,
+    0.0154
+   ],
+   "fill": 0.7419
+  },
+  "RG-NBS3100-8GT2SFP-P|webp|": {
+   "key": "RG-NBS3100-8GT2SFP-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-8GT2SFP-P.webp",
+   "rel": "RG-NBS/RG-NBS3100-8GT2SFP-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 108722,
+   "mtime": 1718960210,
+   "size_px": [
+    3527,
+    824
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1177,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7875,
+    0.4946
+   ],
+   "fill": 0.9633
+  },
+  "RG-NBS3100-8GT2SFP|webp|": {
+   "key": "RG-NBS3100-8GT2SFP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3100-8GT2SFP.webp",
+   "rel": "RG-NBS/RG-NBS3100-8GT2SFP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 3294,
+   "mtime": 1718960210,
+   "size_px": [
+    355,
+    84
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0791,
+   "transparent": true,
+   "content_ratio": [
+    0.9915,
+    1.0
+   ],
+   "body_ratio": [
+    0.9859,
+    0.631
+   ],
+   "fill": 0.9373
+  },
+  "RG-NBS3200-24GT4XS-P-V2|webp|": {
+   "key": "RG-NBS3200-24GT4XS-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-24GT4XS-P-V2.webp",
+   "rel": "RG-NBS/RG-NBS3200-24GT4XS-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 75362,
+   "mtime": 1780999765,
+   "size_px": [
+    4734,
+    846
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0854,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9075,
+    0.4085
+   ],
+   "fill": 0.9271
+  },
+  "RG-NBS3200-24GT4XS-P|webp|": {
+   "key": "RG-NBS3200-24GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-24GT4XS-P.webp",
+   "rel": "RG-NBS/RG-NBS3200-24GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 217890,
+   "mtime": 1718960215,
+   "size_px": [
+    4256,
+    724
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1332,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.895,
+    0.5735
+   ],
+   "fill": 0.9117
+  },
+  "RG-NBS3200-24GT4XS|webp|": {
+   "key": "RG-NBS3200-24GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-24GT4XS.webp",
+   "rel": "RG-NBS/RG-NBS3200-24GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 114428,
+   "mtime": 1718960214,
+   "size_px": [
+    3746,
+    632
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1622,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8375,
+    0.3881
+   ],
+   "fill": 0.9291
+  },
+  "RG-NBS3200-24SFP8GT4XS|webp|": {
+   "key": "RG-NBS3200-24SFP8GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-24SFP8GT4XS.webp",
+   "rel": "RG-NBS/RG-NBS3200-24SFP8GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 297486,
+   "mtime": 1718960216,
+   "size_px": [
+    4190,
+    879
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1449,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8925,
+    0.3214
+   ],
+   "fill": 0.9228
+  },
+  "RG-NBS3200-48GT4XS-P-V2|webp|": {
+   "key": "RG-NBS3200-48GT4XS-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-48GT4XS-P-V2.webp",
+   "rel": "RG-NBS/RG-NBS3200-48GT4XS-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 78536,
+   "mtime": 1780999765,
+   "size_px": [
+    3666,
+    757
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1275,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8,
+    0.2771
+   ],
+   "fill": 0.8927
+  },
+  "RG-NBS3200-48GT4XS-P|webp|": {
+   "key": "RG-NBS3200-48GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-48GT4XS-P.webp",
+   "rel": "RG-NBS/RG-NBS3200-48GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 344810,
+   "mtime": 1718960218,
+   "size_px": [
+    4391,
+    955
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1493,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.0025,
+    0.0115
+   ],
+   "fill": 0.9054
+  },
+  "RG-NBS3200-48GT4XS|webp|": {
+   "key": "RG-NBS3200-48GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3200-48GT4XS.webp",
+   "rel": "RG-NBS/RG-NBS3200-48GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 16062,
+   "mtime": 1781000737,
+   "size_px": [
+    1080,
+    203
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1378,
+   "transparent": true,
+   "content_ratio": [
+    0.995,
+    1.0
+   ],
+   "body_ratio": [
+    0.9675,
+    0.2
+   ],
+   "fill": 0.9115
+  },
+  "RG-NBS3300-16MG4XS-HP|webp|": {
+   "key": "RG-NBS3300-16MG4XS-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3300-16MG4XS-HP.webp",
+   "rel": "RG-NBS/RG-NBS3300-16MG4XS-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 55118,
+   "mtime": 1725341626,
+   "size_px": [
+    4269,
+    860
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0747,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7975,
+    0.8889
+   ],
+   "fill": 0.9526
+  },
+  "RG-NBS3300-8MG2XS-P|webp|": {
+   "key": "RG-NBS3300-8MG2XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS3300-8MG2XS-P.webp",
+   "rel": "RG-NBS/RG-NBS3300-8MG2XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 72104,
+   "mtime": 1725341626,
+   "size_px": [
+    3989,
+    1116
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0579,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.2075,
+    0.2411
+   ],
+   "fill": 0.9569
+  },
+  "RG-NBS5100-24GT4SFP-P|webp|": {
+   "key": "RG-NBS5100-24GT4SFP-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5100-24GT4SFP-P.webp",
+   "rel": "RG-NBS/RG-NBS5100-24GT4SFP-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 93146,
+   "mtime": 1718960219,
+   "size_px": [
+    5694,
+    1233
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1558,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.51,
+    0.8966
+   ],
+   "fill": 0.8682
+  },
+  "RG-NBS5100-24GT4SFP|webp|": {
+   "key": "RG-NBS5100-24GT4SFP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5100-24GT4SFP.webp",
+   "rel": "RG-NBS/RG-NBS5100-24GT4SFP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 105976,
+   "mtime": 1718960218,
+   "size_px": [
+    3728,
+    629
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1551,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.81,
+    0.3433
+   ],
+   "fill": 0.9125
+  },
+  "RG-NBS5100-48GT4SFP|webp|": {
+   "key": "RG-NBS5100-48GT4SFP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5100-48GT4SFP.webp",
+   "rel": "RG-NBS/RG-NBS5100-48GT4SFP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 195916,
+   "mtime": 1718960220,
+   "size_px": [
+    4514,
+    832
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1175,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9185
+  },
+  "RG-NBS5200-24GT4XS-P-V2|webp|": {
+   "key": "RG-NBS5200-24GT4XS-P-V2",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5200-24GT4XS-P-V2.webp",
+   "rel": "RG-NBS/RG-NBS5200-24GT4XS-P-V2.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 75290,
+   "mtime": 1780996744,
+   "size_px": [
+    4734,
+    846
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0854,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9075,
+    0.4085
+   ],
+   "fill": 0.9271
+  },
+  "RG-NBS5200-24GT4XS-P|webp|": {
+   "key": "RG-NBS5200-24GT4XS-P",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5200-24GT4XS-P.webp",
+   "rel": "RG-NBS/RG-NBS5200-24GT4XS-P.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 130300,
+   "mtime": 1718960222,
+   "size_px": [
+    5694,
+    1233
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1557,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5125,
+    0.908
+   ],
+   "fill": 0.8655
+  },
+  "RG-NBS5200-24GT4XS|webp|": {
+   "key": "RG-NBS5200-24GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5200-24GT4XS.webp",
+   "rel": "RG-NBS/RG-NBS5200-24GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 112312,
+   "mtime": 1718960221,
+   "size_px": [
+    3751,
+    621
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1492,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.82,
+    0.3939
+   ],
+   "fill": 0.9266
+  },
+  "RG-NBS5200-24SFP8GT4XS|webp|": {
+   "key": "RG-NBS5200-24SFP8GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5200-24SFP8GT4XS.webp",
+   "rel": "RG-NBS/RG-NBS5200-24SFP8GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 299612,
+   "mtime": 1718960223,
+   "size_px": [
+    4211,
+    895
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1686,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9765
+   ],
+   "body_ratio": [
+    0.9375,
+    0.3294
+   ],
+   "fill": 0.8988
+  },
+  "RG-NBS5200-48GT4XS-UP|webp|": {
+   "key": "RG-NBS5200-48GT4XS-UP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5200-48GT4XS-UP.webp",
+   "rel": "RG-NBS/RG-NBS5200-48GT4XS-UP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 98360,
+   "mtime": 1718960225,
+   "size_px": [
+    4871,
+    1216
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1392,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8875,
+    0.37
+   ],
+   "fill": 0.8646
+  },
+  "RG-NBS5200-48GT4XS|webp|": {
+   "key": "RG-NBS5200-48GT4XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5200-48GT4XS.webp",
+   "rel": "RG-NBS/RG-NBS5200-48GT4XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 206822,
+   "mtime": 1718960224,
+   "size_px": [
+    4511,
+    865
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1398,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9215
+  },
+  "RG-NBS5300-8MG2XS-UP|webp|": {
+   "key": "RG-NBS5300-8MG2XS-UP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5300-8MG2XS-UP.webp",
+   "rel": "RG-NBS/RG-NBS5300-8MG2XS-UP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 51358,
+   "mtime": 1718960226,
+   "size_px": [
+    3275,
+    916
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0654,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7625,
+    0.8929
+   ],
+   "fill": 0.9567
+  },
+  "RG-NBS5500-12XS|webp|": {
+   "key": "RG-NBS5500-12XS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS5500-12XS.webp",
+   "rel": "RG-NBS/RG-NBS5500-12XS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 43878,
+   "mtime": 1725341627,
+   "size_px": [
+    3320,
+    934
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0665,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.085,
+    0.1947
+   ],
+   "fill": 0.9553
+  },
+  "RG-NBS6002|webp|": {
+   "key": "RG-NBS6002",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS6002.webp",
+   "rel": "RG-NBS/RG-NBS6002.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 135870,
+   "mtime": 1718960226,
+   "size_px": [
+    4666,
+    1184
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1878,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.965,
+    0.9902
+   ],
+   "fill": 0.8216
+  },
+  "RG-NBS7003|webp|": {
+   "key": "RG-NBS7003",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS7003.webp",
+   "rel": "RG-NBS/RG-NBS7003.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 348238,
+   "mtime": 1718960229,
+   "size_px": [
+    5393,
+    2614
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1335,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8825,
+    0.9175
+   ],
+   "fill": 0.8557
+  },
+  "RG-NBS7006|webp|": {
+   "key": "RG-NBS7006",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NBS",
+   "active": true,
+   "file": "RG-NBS7006.webp",
+   "rel": "RG-NBS/RG-NBS7006.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 690392,
+   "mtime": 1718960231,
+   "size_px": [
+    4465,
+    3555
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2329,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9528
+   ],
+   "fill": 0.6823
+  },
+  "RG-NIS-GE-SFP-10KM-SM1310|webp|": {
+   "key": "RG-NIS-GE-SFP-10KM-SM1310",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-GE-SFP-10KM-SM1310.webp",
+   "rel": "RG-NIS/RG-NIS-GE-SFP-10KM-SM1310.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 110118,
+   "mtime": 1781067115,
+   "size_px": [
+    2115,
+    1692
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5866,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.94,
+    0.9125
+   ],
+   "fill": 0.3686
+  },
+  "RG-NIS-GE-SFP-20KM-SM1310-BIDI|webp|": {
+   "key": "RG-NIS-GE-SFP-20KM-SM1310-BIDI",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-GE-SFP-20KM-SM1310-BIDI.webp",
+   "rel": "RG-NIS/RG-NIS-GE-SFP-20KM-SM1310-BIDI.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 125726,
+   "mtime": 1781067114,
+   "size_px": [
+    2238,
+    1890
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5964,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9925,
+    0.9793
+   ],
+   "fill": 0.3329
+  },
+  "RG-NIS-GE-SFP-20KM-SM1550-BIDI|webp|": {
+   "key": "RG-NIS-GE-SFP-20KM-SM1550-BIDI",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-GE-SFP-20KM-SM1550-BIDI.webp",
+   "rel": "RG-NIS/RG-NIS-GE-SFP-20KM-SM1550-BIDI.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 125560,
+   "mtime": 1781067114,
+   "size_px": [
+    2238,
+    1890
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5964,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9925,
+    0.9793
+   ],
+   "fill": 0.3324
+  },
+  "RG-NIS-GE-SFP-550M-MM850|webp|": {
+   "key": "RG-NIS-GE-SFP-550M-MM850",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-GE-SFP-550M-MM850.webp",
+   "rel": "RG-NIS/RG-NIS-GE-SFP-550M-MM850.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 110742,
+   "mtime": 1781067114,
+   "size_px": [
+    2115,
+    1692
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5866,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.94,
+    0.9125
+   ],
+   "fill": 0.3685
+  },
+  "RG-NIS-PA120-48|webp|": {
+   "key": "RG-NIS-PA120-48",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-PA120-48.webp",
+   "rel": "RG-NIS/RG-NIS-PA120-48.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 98126,
+   "mtime": 1725341639,
+   "size_px": [
+    1526,
+    2390
+   ],
+   "alpha": true,
+   "alpha_cov": 0.196,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9333,
+    0.98
+   ],
+   "fill": 0.8003
+  },
+  "RG-NIS-PA120-54|webp|": {
+   "key": "RG-NIS-PA120-54",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-PA120-54.webp",
+   "rel": "RG-NIS/RG-NIS-PA120-54.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 84050,
+   "mtime": 1780998228,
+   "size_px": [
+    1776,
+    2664
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1788,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9925,
+    0.775
+   ],
+   "fill": 0.8325
+  },
+  "RG-NIS-PA240-48|webp|": {
+   "key": "RG-NIS-PA240-48",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-PA240-48.webp",
+   "rel": "RG-NIS/RG-NIS-PA240-48.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 102962,
+   "mtime": 1725341639,
+   "size_px": [
+    1571,
+    2374
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0918,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9698,
+    0.9875
+   ],
+   "fill": 0.9047
+  },
+  "RG-NIS-PA240-54|webp|": {
+   "key": "RG-NIS-PA240-54",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS-PA240-54.webp",
+   "rel": "RG-NIS/RG-NIS-PA240-54.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 112944,
+   "mtime": 1780998227,
+   "size_px": [
+    2125,
+    2783
+   ],
+   "alpha": true,
+   "alpha_cov": 0.185,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9934,
+    0.7675
+   ],
+   "fill": 0.825
+  },
+  "RG-NIS2100-4GT2SFP-HP|webp|": {
+   "key": "RG-NIS2100-4GT2SFP-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS2100-4GT2SFP-HP.webp",
+   "rel": "RG-NIS/RG-NIS2100-4GT2SFP-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 269658,
+   "mtime": 1725341623,
+   "size_px": [
+    2470,
+    3761
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0856,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5779,
+    0.9925
+   ],
+   "fill": 0.908
+  },
+  "RG-NIS2100-8GT2SFP-HP|webp|": {
+   "key": "RG-NIS2100-8GT2SFP-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS2100-8GT2SFP-HP.webp",
+   "rel": "RG-NIS/RG-NIS2100-8GT2SFP-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 279560,
+   "mtime": 1725341625,
+   "size_px": [
+    2470,
+    3761
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0856,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5475,
+    0.9925
+   ],
+   "fill": 0.896
+  },
+  "RG-NIS3100-4GT2SFP-HP|webp|": {
+   "key": "RG-NIS3100-4GT2SFP-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS3100-4GT2SFP-HP.webp",
+   "rel": "RG-NIS/RG-NIS3100-4GT2SFP-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 34422,
+   "mtime": 1718960335,
+   "size_px": [
+    824,
+    1179
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0747,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9857,
+    0.9475
+   ],
+   "fill": 0.9065
+  },
+  "RG-NIS3100-8GT2SFP-HP|webp|": {
+   "key": "RG-NIS3100-8GT2SFP-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS3100-8GT2SFP-HP.webp",
+   "rel": "RG-NIS/RG-NIS3100-8GT2SFP-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 36212,
+   "mtime": 1718960335,
+   "size_px": [
+    803,
+    1149
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0755,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9857,
+    0.9375
+   ],
+   "fill": 0.8969
+  },
+  "RG-NIS3100-8GT4SFP-HP|webp|": {
+   "key": "RG-NIS3100-8GT4SFP-HP",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-NIS",
+   "active": true,
+   "file": "RG-NIS3100-8GT4SFP-HP.webp",
+   "rel": "RG-NIS/RG-NIS3100-8GT4SFP-HP.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 38484,
+   "mtime": 1718960336,
+   "size_px": [
+    805,
+    1151
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0748,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9857,
+    0.9425
+   ],
+   "fill": 0.8956
+  },
+  "RG-PA150IB-F|webp|": {
+   "key": "RG-PA150IB-F",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA150IB-F.webp",
+   "rel": "RG-PA/RG-PA150IB-F.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 63636,
+   "mtime": 1780992510,
+   "size_px": [
+    1478,
+    1344
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5264,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.585,
+    0.6951
+   ],
+   "fill": 0.4841
+  },
+  "RG-PA1600-RI|webp|": {
+   "key": "RG-PA1600-RI",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA1600-RI.webp",
+   "rel": "RG-PA/RG-PA1600-RI.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 4550,
+   "mtime": 1780992508,
+   "size_px": [
+    596,
+    131
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3055,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9773
+   ],
+   "body_ratio": [
+    0.775,
+    0.7841
+   ],
+   "fill": 0.7239
+  },
+  "RG-PA1600I|webp|": {
+   "key": "RG-PA1600I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA1600I.webp",
+   "rel": "RG-PA/RG-PA1600I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 53352,
+   "mtime": 1780992508,
+   "size_px": [
+    1568,
+    1167
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4845,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9825,
+    0.8658
+   ],
+   "fill": 0.5244
+  },
+  "RG-PA2700I|webp|": {
+   "key": "RG-PA2700I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA2700I.webp",
+   "rel": "RG-PA/RG-PA2700I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 59452,
+   "mtime": 1780992508,
+   "size_px": [
+    1606,
+    1208
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4851,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7075,
+    0.5083
+   ],
+   "fill": 0.5221
+  },
+  "RG-PA3000I-PL|webp|": {
+   "key": "RG-PA3000I-PL",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA3000I-PL.webp",
+   "rel": "RG-PA/RG-PA3000I-PL.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 3772,
+   "mtime": 1780992508,
+   "size_px": [
+    182,
+    210
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2016,
+   "transparent": true,
+   "content_ratio": [
+    0.989,
+    1.0
+   ],
+   "body_ratio": [
+    0.8297,
+    0.2048
+   ],
+   "fill": 0.8149
+  },
+  "RG-PA300I-FS|webp|": {
+   "key": "RG-PA300I-FS",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA300I-FS.webp",
+   "rel": "RG-PA/RG-PA300I-FS.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 13614,
+   "mtime": 1780992509,
+   "size_px": [
+    320,
+    538
+   ],
+   "alpha": true,
+   "alpha_cov": 0.293,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6597,
+    0.3575
+   ],
+   "fill": 0.7247
+  },
+  "RG-PA460I-F|webp|": {
+   "key": "RG-PA460I-F",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA460I-F.webp",
+   "rel": "RG-PA/RG-PA460I-F.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 118220,
+   "mtime": 1780992509,
+   "size_px": [
+    1972,
+    1961
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4851,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.5925,
+    0.7814
+   ],
+   "fill": 0.5239
+  },
+  "RG-PA60|webp|": {
+   "key": "RG-PA60",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA60.webp",
+   "rel": "RG-PA/RG-PA60.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 30952,
+   "mtime": 1780992510,
+   "size_px": [
+    790,
+    572
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4412,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.91,
+    0.8552
+   ],
+   "fill": 0.5955
+  },
+  "RG-PA600-RI|webp|": {
+   "key": "RG-PA600-RI",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA600-RI.webp",
+   "rel": "RG-PA/RG-PA600-RI.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 4904,
+   "mtime": 1780992508,
+   "size_px": [
+    625,
+    169
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3434,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7675,
+    0.7222
+   ],
+   "fill": 0.682
+  },
+  "RG-PA600I-P-F|webp|": {
+   "key": "RG-PA600I-P-F",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA600I-P-F.webp",
+   "rel": "RG-PA/RG-PA600I-P-F.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 83574,
+   "mtime": 1780992509,
+   "size_px": [
+    2060,
+    1301
+   ],
+   "alpha": true,
+   "alpha_cov": 0.473,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7475,
+    0.8221
+   ],
+   "fill": 0.5384
+  },
+  "RG-PA600I|webp|": {
+   "key": "RG-PA600I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PA600I.webp",
+   "rel": "RG-PA/RG-PA600I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 59326,
+   "mtime": 1780992509,
+   "size_px": [
+    1584,
+    1230
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4788,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.805,
+    0.6656
+   ],
+   "fill": 0.5285
+  },
+  "RG-PD600I|webp|": {
+   "key": "RG-PD600I",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PA",
+   "active": true,
+   "file": "RG-PD600I.webp",
+   "rel": "RG-PA/RG-PD600I.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 14796,
+   "mtime": 1780992508,
+   "size_px": [
+    477,
+    329
+   ],
+   "alpha": true,
+   "alpha_cov": 0.4865,
+   "transparent": true,
+   "content_ratio": [
+    0.9975,
+    1.0
+   ],
+   "body_ratio": [
+    0.9875,
+    0.8007
+   ],
+   "fill": 0.5292
+  },
+  "RG-PON1200G|webp|": {
+   "key": "RG-PON1200G",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PON",
+   "active": true,
+   "file": "RG-PON1200G.webp",
+   "rel": "RG-PON/RG-PON1200G.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 48532,
+   "mtime": 1787913520,
+   "size_px": [
+    1708,
+    2022
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5554,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9941,
+    0.9975
+   ],
+   "fill": 0.4336
+  },
+  "RG-PON3000GX|webp|": {
+   "key": "RG-PON3000GX",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-PON",
+   "active": true,
+   "file": "RG-PON3000GX.webp",
+   "rel": "RG-PON/RG-PON3000GX.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 58094,
+   "mtime": 1787913590,
+   "size_px": [
+    1950,
+    2114
+   ],
+   "alpha": true,
+   "alpha_cov": 0.5126,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    1.0,
+    0.995
+   ],
+   "fill": 0.4862
+  },
+  "RG-POE-50-60W-MG|webp|": {
+   "key": "RG-POE-50-60W-MG",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-POE-50-60W-MG.webp",
+   "rel": "RG-RAP/RG-POE-50-60W-MG.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 83216,
+   "mtime": 1718960413,
+   "size_px": [
+    1974,
+    1635
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3592,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.055,
+    0.0211
+   ],
+   "fill": 0.65
+  },
+  "RG-POE-AF15|webp|": {
+   "key": "RG-POE-AF15",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-POE-AF15.webp",
+   "rel": "RG-RAP/RG-POE-AF15.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 40348,
+   "mtime": 1781014486,
+   "size_px": [
+    1676,
+    1464
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3487,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.6605
+  },
+  "RG-POE-AT30|webp|": {
+   "key": "RG-POE-AT30",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-POE-AT30.webp",
+   "rel": "RG-RAP/RG-POE-AT30.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 59264,
+   "mtime": 1718960414,
+   "size_px": [
+    1673,
+    1440
+   ],
+   "alpha": true,
+   "alpha_cov": 0.3505,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.005,
+    0.0029
+   ],
+   "fill": 0.6591
+  },
+  "RG-RAP1200(F)|webp|": {
+   "key": "RG-RAP1200(F)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP1200(F).webp",
+   "rel": "RG-RAP/RG-RAP1200(F).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 20344,
+   "mtime": 1718960417,
+   "size_px": [
+    2308,
+    2306
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0103,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.995
+   ],
+   "fill": 0.9934
+  },
+  "RG-RAP1200(P)|webp|": {
+   "key": "RG-RAP1200(P)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP1200(P).webp",
+   "rel": "RG-RAP/RG-RAP1200(P).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 18054,
+   "mtime": 1718960417,
+   "size_px": [
+    868,
+    1666
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1439,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9975
+   ],
+   "body_ratio": [
+    0.9904,
+    0.995
+   ],
+   "fill": 0.8191
+  },
+  "RG-RAP1201|webp|": {
+   "key": "RG-RAP1201",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP1201.webp",
+   "rel": "RG-RAP/RG-RAP1201.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11504,
+   "mtime": 1718960418,
+   "size_px": [
+    1936,
+    1936
+   ],
+   "alpha": true,
+   "alpha_cov": 0.01,
+   "transparent": false,
+   "content_ratio": [
+    0.9925,
+    0.9925
+   ],
+   "body_ratio": [
+    0.995,
+    0.995
+   ],
+   "fill": 0.9821
+  },
+  "RG-RAP1260|webp|view:cover": {
+   "key": "RG-RAP1260",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP1260-cover.webp",
+   "rel": "RG-RAP/RG-RAP1260-cover.webp",
+   "path": "",
+   "tags": [
+    "view:cover"
+   ],
+   "bytes": 31198,
+   "mtime": 1781009186,
+   "size_px": [
+    1058,
+    1779
+   ],
+   "alpha": true,
+   "alpha_cov": 0.086,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": null,
+   "fill": 0.9282
+  },
+  "RG-RAP1260|webp|": {
+   "key": "RG-RAP1260",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP1260.webp",
+   "rel": "RG-RAP/RG-RAP1260.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 3670,
+   "mtime": 1718960418,
+   "size_px": [
+    694,
+    1009
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0142,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9927,
+    0.995
+   ],
+   "fill": 0.9894
+  },
+  "RG-RAP1261|webp|": {
+   "key": "RG-RAP1261",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP1261.webp",
+   "rel": "RG-RAP/RG-RAP1261.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 11504,
+   "mtime": 1718960418,
+   "size_px": [
+    1936,
+    1936
+   ],
+   "alpha": true,
+   "alpha_cov": 0.01,
+   "transparent": false,
+   "content_ratio": [
+    0.9925,
+    0.9925
+   ],
+   "body_ratio": [
+    0.995,
+    0.995
+   ],
+   "fill": 0.9821
+  },
+  "RG-RAP2200(E)|webp|": {
+   "key": "RG-RAP2200(E)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2200(E).webp",
+   "rel": "RG-RAP/RG-RAP2200(E).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 27800,
+   "mtime": 1718960420,
+   "size_px": [
+    2306,
+    2308
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0174,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8025,
+    0.9825
+   ],
+   "fill": 0.9877
+  },
+  "RG-RAP2200(F)|webp|": {
+   "key": "RG-RAP2200(F)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2200(F).webp",
+   "rel": "RG-RAP/RG-RAP2200(F).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 27800,
+   "mtime": 1718960421,
+   "size_px": [
+    2306,
+    2308
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0174,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8025,
+    0.9825
+   ],
+   "fill": 0.9877
+  },
+  "RG-RAP2260(E)|webp|": {
+   "key": "RG-RAP2260(E)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2260(E).webp",
+   "rel": "RG-RAP/RG-RAP2260(E).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 28110,
+   "mtime": 1718960422,
+   "size_px": [
+    2305,
+    2307
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0193,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8,
+    0.99
+   ],
+   "fill": 0.9879
+  },
+  "RG-RAP2260(G)|webp|": {
+   "key": "RG-RAP2260(G)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2260(G).webp",
+   "rel": "RG-RAP/RG-RAP2260(G).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 33556,
+   "mtime": 1781008732,
+   "size_px": [
+    1187,
+    1188
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0608,
+   "transparent": true,
+   "content_ratio": [
+    0.9875,
+    0.9875
+   ],
+   "body_ratio": [
+    0.7875,
+    0.8225
+   ],
+   "fill": 0.9648
+  },
+  "RG-RAP2260(H)|webp|": {
+   "key": "RG-RAP2260(H)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2260(H).webp",
+   "rel": "RG-RAP/RG-RAP2260(H).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 33192,
+   "mtime": 1718960424,
+   "size_px": [
+    2838,
+    2838
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0144,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    1.0,
+    1.0
+   ],
+   "fill": 0.9741
+  },
+  "RG-RAP2260|webp|": {
+   "key": "RG-RAP2260",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2260.webp",
+   "rel": "RG-RAP/RG-RAP2260.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 29144,
+   "mtime": 1718960424,
+   "size_px": [
+    2306,
+    2308
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0174,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8,
+    0.9825
+   ],
+   "fill": 0.9878
+  },
+  "RG-RAP2266|webp|": {
+   "key": "RG-RAP2266",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP2266.webp",
+   "rel": "RG-RAP/RG-RAP2266.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 17236,
+   "mtime": 1718960425,
+   "size_px": [
+    917,
+    916
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2228,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.995
+   ],
+   "fill": 0.6284
+  },
+  "RG-RAP52-OD|webp|": {
+   "key": "RG-RAP52-OD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP52-OD.webp",
+   "rel": "RG-RAP/RG-RAP52-OD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 51374,
+   "mtime": 1718960415,
+   "size_px": [
+    2341,
+    3793
+   ],
+   "alpha": true,
+   "alpha_cov": 0.84,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9879,
+    0.995
+   ],
+   "fill": 0.1696
+  },
+  "RG-RAP62-OD|webp|": {
+   "key": "RG-RAP62-OD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP62-OD.webp",
+   "rel": "RG-RAP/RG-RAP62-OD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 6532,
+   "mtime": 1718960415,
+   "size_px": [
+    637,
+    1971
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0252,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9767,
+    0.99
+   ],
+   "fill": 0.6396
+  },
+  "RG-RAP62-WALL-LITE|webp|": {
+   "key": "RG-RAP62-WALL-LITE",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP62-Wall-Lite.webp",
+   "rel": "RG-RAP/RG-RAP62-Wall-Lite.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 17356,
+   "mtime": 1780994878,
+   "size_px": [
+    1347,
+    1556
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1156,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9942,
+    0.995
+   ],
+   "fill": 0.8804
+  },
+  "RG-RAP62-WALL|webp|": {
+   "key": "RG-RAP62-WALL",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP62-Wall.webp",
+   "rel": "RG-RAP/RG-RAP62-Wall.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 39072,
+   "mtime": 1780994878,
+   "size_px": [
+    1270,
+    2067
+   ],
+   "alpha": true,
+   "alpha_cov": 0.1334,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    0.9975
+   ],
+   "body_ratio": [
+    0.9919,
+    0.995
+   ],
+   "fill": 0.8624
+  },
+  "RG-RAP62|webp|": {
+   "key": "RG-RAP62",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP62.webp",
+   "rel": "RG-RAP/RG-RAP62.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 35356,
+   "mtime": 1736490546,
+   "size_px": [
+    2366,
+    2365
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2197,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    1.0
+   ],
+   "fill": 0.5035
+  },
+  "RG-RAP6202(G)|webp|": {
+   "key": "RG-RAP6202(G)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP6202(G).webp",
+   "rel": "RG-RAP/RG-RAP6202(G).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 52618,
+   "mtime": 1718960426,
+   "size_px": [
+    3720,
+    3091
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2783,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9975,
+    0.5904
+   ],
+   "fill": 0.6012
+  },
+  "RG-RAP6260(G)|webp|": {
+   "key": "RG-RAP6260(G)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP6260(G).webp",
+   "rel": "RG-RAP/RG-RAP6260(G).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 31884,
+   "mtime": 1718960427,
+   "size_px": [
+    2538,
+    2595
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0546,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9949,
+    0.965
+   ],
+   "fill": 0.6769
+  },
+  "RG-RAP6260(H)-D|webp|": {
+   "key": "RG-RAP6260(H)-D",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP6260(H)-D.webp",
+   "rel": "RG-RAP/RG-RAP6260(H)-D.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 72740,
+   "mtime": 1718960432,
+   "size_px": [
+    3601,
+    4656
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2384,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9903,
+    0.765
+   ],
+   "fill": 0.6593
+  },
+  "RG-RAP6260(H)|webp|": {
+   "key": "RG-RAP6260(H)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP6260(H).webp",
+   "rel": "RG-RAP/RG-RAP6260(H).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 72740,
+   "mtime": 1718960429,
+   "size_px": [
+    3601,
+    4656
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2384,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9903,
+    0.765
+   ],
+   "fill": 0.6593
+  },
+  "RG-RAP6262(G)|webp|": {
+   "key": "RG-RAP6262(G)",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP6262(G).webp",
+   "rel": "RG-RAP/RG-RAP6262(G).webp",
+   "path": "",
+   "tags": [],
+   "bytes": 58506,
+   "mtime": 1718960433,
+   "size_px": [
+    3719,
+    3088
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2785,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.5873
+   ],
+   "fill": 0.5994
+  },
+  "RG-RAP6262|webp|": {
+   "key": "RG-RAP6262",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP6262.webp",
+   "rel": "RG-RAP/RG-RAP6262.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 30042,
+   "mtime": 1718960434,
+   "size_px": [
+    1839,
+    1561
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2677,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.6425,
+    0.8176
+   ],
+   "fill": 0.6869
+  },
+  "RG-RAP72-WALL|webp|": {
+   "key": "RG-RAP72-WALL",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP72-WALL.webp",
+   "rel": "RG-RAP/RG-RAP72-WALL.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 16624,
+   "mtime": 1780994877,
+   "size_px": [
+    1229,
+    2067
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0964,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9916,
+    0.9775
+   ],
+   "fill": 0.9124
+  },
+  "RG-RAP72|webp|": {
+   "key": "RG-RAP72",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP72.webp",
+   "rel": "RG-RAP/RG-RAP72.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 20518,
+   "mtime": 1781008899,
+   "size_px": [
+    1238,
+    1238
+   ],
+   "alpha": true,
+   "alpha_cov": 0.2204,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.9925
+   ],
+   "fill": 0.2707
+  },
+  "RG-RAP72PRO-OD|webp|": {
+   "key": "RG-RAP72PRO-OD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP72Pro-OD.webp",
+   "rel": "RG-RAP/RG-RAP72Pro-OD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 12242,
+   "mtime": 1781008971,
+   "size_px": [
+    1216,
+    3229
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0181,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.9868,
+    0.995
+   ],
+   "fill": 0.574
+  },
+  "RG-RAP72PRO|webp|": {
+   "key": "RG-RAP72PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP72Pro.webp",
+   "rel": "RG-RAP/RG-RAP72Pro.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 23830,
+   "mtime": 1718960416,
+   "size_px": [
+    2274,
+    2273
+   ],
+   "alpha": true,
+   "alpha_cov": 0.081,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.995
+   ],
+   "fill": 0.4125
+  },
+  "RG-RAP73HD|webp|": {
+   "key": "RG-RAP73HD",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP73HD.webp",
+   "rel": "RG-RAP/RG-RAP73HD.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 21326,
+   "mtime": 1718960416,
+   "size_px": [
+    1764,
+    1764
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0868,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.99,
+    0.995
+   ],
+   "fill": 0.8881
+  },
+  "RG-RAP73PRO|webp|": {
+   "key": "RG-RAP73PRO",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": true,
+   "file": "RG-RAP73Pro.webp",
+   "rel": "RG-RAP/RG-RAP73Pro.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 32272,
+   "mtime": 1725341625,
+   "size_px": [
+    2332,
+    2333
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0832,
+   "transparent": true,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.995,
+    0.995
+   ],
+   "fill": 0.4228
+  },
+  "RG-RAP2200(E) V1|webp|region:US,removebg": {
+   "key": "RG-RAP2200(E) V1",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": false,
+   "file": "RG-RAP2200(E) V1 for US.webp",
+   "rel": "RG-RAP/已停产/RG-RAP2200(E) V1 for US.webp",
+   "path": "",
+   "tags": [
+    "region:US",
+    "removebg"
+   ],
+   "bytes": 26756,
+   "mtime": 1718960419,
+   "size_px": [
+    2305,
+    2307
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0193,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.7975,
+    0.99
+   ],
+   "fill": 0.9879
+  },
+  "RG-RAP2260 V2 FOR CANADA|webp|": {
+   "key": "RG-RAP2260 V2 FOR CANADA",
+   "lib": "webp",
+   "rank": 0,
+   "series": "RG-RAP",
+   "active": false,
+   "file": "RG-RAP2260 V2 for Canada.webp",
+   "rel": "RG-RAP/已停产/RG-RAP2260 V2 for Canada.webp",
+   "path": "",
+   "tags": [],
+   "bytes": 28124,
+   "mtime": 1718960421,
+   "size_px": [
+    2305,
+    2307
+   ],
+   "alpha": true,
+   "alpha_cov": 0.0193,
+   "transparent": false,
+   "content_ratio": [
+    1.0,
+    1.0
+   ],
+   "body_ratio": [
+    0.8025,
+    0.99
+   ],
+   "fill": 0.9879
+  }
+ }
+}

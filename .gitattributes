@@ -1,0 +1,12 @@
+# 只声明二进制类型，不做任何行尾归一化 ——
+# 避免模板 / 图片 / 缓存被当作文本处理而损坏。
+*.webp    binary
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.ttf     binary
+*.otf     binary
+*.thmx    binary
+*.pptx    binary
+*.npz     binary
+*.fntdata binary
